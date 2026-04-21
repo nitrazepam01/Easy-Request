@@ -1,0 +1,8702 @@
+[
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第一单元 绪论 课后练习题",
+    "question_type": "单选题",
+    "source_no": "1",
+    "display_order": 1,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "希波克拉底"
+      },
+      {
+        "key": "B",
+        "text": "恩格尔"
+      },
+      {
+        "key": "C",
+        "text": "帕兹瓦尔"
+      },
+      {
+        "key": "D",
+        "text": "胡弗兰德"
+      },
+      {
+        "key": "E",
+        "text": "皮内尔"
+      }
+    ],
+    "answer": "B",
+    "stem": "提出 “生物医学逐渐演变为生物 - 心理 - 社会医学是医学发展的必然” 这一观点的是",
+    "question_id": "chapter_review-single-001"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第一单元 绪论 课后练习题",
+    "question_type": "单选题",
+    "source_no": "2",
+    "display_order": 2,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "建立新的医患模式"
+      },
+      {
+        "key": "B",
+        "text": "建立新的医际关系"
+      },
+      {
+        "key": "C",
+        "text": "加大继续教育的力度"
+      },
+      {
+        "key": "D",
+        "text": "改变传统的医德观念"
+      },
+      {
+        "key": "E",
+        "text": "改变传统的问诊方式"
+      }
+    ],
+    "answer": "D",
+    "stem": "医学模式转变对医务人员提出的要求是",
+    "question_id": "chapter_review-single-002"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第一单元 绪论 课后练习题",
+    "question_type": "单选题",
+    "source_no": "3",
+    "display_order": 3,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "都是以前一阶段的医学伦理学为基础发展而来的"
+      },
+      {
+        "key": "B",
+        "text": "与前一阶段的医学伦理学没有关系，是一种新体系"
+      },
+      {
+        "key": "C",
+        "text": "与前一阶段的医学伦理学没有关系，内容是全新的"
+      },
+      {
+        "key": "D",
+        "text": "与前一阶段的医学伦理学没有区别，只是名称不同"
+      },
+      {
+        "key": "E",
+        "text": "与前一阶段的医学伦理学没有区别，只是内容更详细"
+      }
+    ],
+    "answer": "A",
+    "stem": "不同发展阶段的医学伦理学",
+    "question_id": "chapter_review-single-003"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第一单元 绪论 课后练习题",
+    "question_type": "单选题",
+    "source_no": "4",
+    "display_order": 4,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "格里高利"
+      },
+      {
+        "key": "B",
+        "text": "希波克拉底"
+      },
+      {
+        "key": "C",
+        "text": "帕兹瓦尔"
+      },
+      {
+        "key": "D",
+        "text": "胡弗兰德"
+      },
+      {
+        "key": "E",
+        "text": "皮内尔"
+      }
+    ],
+    "answer": "B",
+    "stem": "西方医学伦理学的奠基人是",
+    "question_id": "chapter_review-single-004"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第一单元 绪论 课后练习题",
+    "question_type": "单选题",
+    "source_no": "5",
+    "display_order": 5,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "医术是最重要的，有了精湛医术必然有高尚医德"
+      },
+      {
+        "key": "B",
+        "text": "医德是最重要的，有了高尚医德必然有精湛医术"
+      },
+      {
+        "key": "C",
+        "text": "医德与医术密不可分，医学道德以医学技术为依托，医学技术以医学道德为指导"
+      },
+      {
+        "key": "D",
+        "text": "医德与医术没有关系，医德高尚的不一定是医术精湛的"
+      },
+      {
+        "key": "E",
+        "text": "医德与医术没有关系，医术精湛的不一定是医德高尚的"
+      }
+    ],
+    "answer": "C",
+    "stem": "医德与医术的关系是",
+    "question_id": "chapter_review-single-005"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第一单元 绪论 课后练习题",
+    "question_type": "单选题",
+    "source_no": "6",
+    "display_order": 6,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "研究人与人之间关系的科学"
+      },
+      {
+        "key": "B",
+        "text": "研究人与社会之间关系的科学"
+      },
+      {
+        "key": "C",
+        "text": "研究医务人员的医德意识和医德活动的科学"
+      },
+      {
+        "key": "D",
+        "text": "研究科学道德或科学哲学的学科"
+      },
+      {
+        "key": "E",
+        "text": "研究医疗人际关系的学科"
+      }
+    ],
+    "answer": "C",
+    "stem": "医学伦理学是",
+    "question_id": "chapter_review-single-006"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第一单元 绪论 课后练习题",
+    "question_type": "单选题",
+    "source_no": "7",
+    "display_order": 7,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "医术"
+      },
+      {
+        "key": "B",
+        "text": "仁术"
+      },
+      {
+        "key": "C",
+        "text": "人术"
+      },
+      {
+        "key": "D",
+        "text": "技术"
+      },
+      {
+        "key": "E",
+        "text": "救人"
+      }
+    ],
+    "answer": "B",
+    "stem": "古代医家把医学称为",
+    "question_id": "chapter_review-single-007"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第一单元 绪论 课后练习题",
+    "question_type": "单选题",
+    "source_no": "8",
+    "display_order": 8,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "稀有卫生资源分配不公的现象"
+      },
+      {
+        "key": "B",
+        "text": "追求个人正当利益的现象"
+      },
+      {
+        "key": "C",
+        "text": "忽视卫生事业的福利性"
+      },
+      {
+        "key": "D",
+        "text": "强调医务人员的社会价值"
+      },
+      {
+        "key": "E",
+        "text": "片面追求经济效益的行为"
+      }
+    ],
+    "answer": "E",
+    "stem": "市场经济条件下的医德建设，重点是纠正和防止",
+    "question_id": "chapter_review-single-008"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第一单元 绪论 课后练习题",
+    "question_type": "单选题",
+    "source_no": "9",
+    "display_order": 9,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "很难达到统一"
+      },
+      {
+        "key": "B",
+        "text": "可以达到有机统一"
+      },
+      {
+        "key": "C",
+        "text": "市场经济对医学道德的负面影响无法消除"
+      },
+      {
+        "key": "D",
+        "text": "市场经济与医学道德之间没有关系"
+      },
+      {
+        "key": "E",
+        "text": "医学道德会制约市场经济的发展"
+      }
+    ],
+    "answer": "B",
+    "stem": "市场经济与医学道德",
+    "question_id": "chapter_review-single-009"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第一单元 绪论 课后练习题",
+    "question_type": "单选题",
+    "source_no": "10",
+    "display_order": 10,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "医学伦理学是正确决策的保证"
+      },
+      {
+        "key": "B",
+        "text": "临床决策是单纯的技术决策"
+      },
+      {
+        "key": "C",
+        "text": "临床决策是单纯的伦理决策"
+      },
+      {
+        "key": "D",
+        "text": "临床决策有时是技术的，有时是伦理的"
+      },
+      {
+        "key": "E",
+        "text": "技术决策和伦理决策在临床决策中很难达到统一"
+      }
+    ],
+    "answer": "A",
+    "stem": "下列关于临床决策的认识正确的是",
+    "question_id": "chapter_review-single-010"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第二单元 医疗人际关系 课后练习题",
+    "question_type": "单选题",
+    "source_no": "11",
+    "display_order": 11,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "主动 — 被动型"
+      },
+      {
+        "key": "B",
+        "text": "相互协作型"
+      },
+      {
+        "key": "C",
+        "text": "指导 — 合作型"
+      },
+      {
+        "key": "D",
+        "text": "指导 — 参考型"
+      },
+      {
+        "key": "E",
+        "text": "共同参与型"
+      }
+    ],
+    "answer": "C",
+    "stem": "现代医学实践中医患关系的常用模式是",
+    "question_id": "chapter_review-single-011"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第二单元 医疗人际关系 课后练习题",
+    "question_type": "单选题",
+    "source_no": "12",
+    "display_order": 12,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "拒绝病人及家属的意见，强行剖宫产"
+      },
+      {
+        "key": "B",
+        "text": "与计划生育部门联系看能否尊重病人的意见"
+      },
+      {
+        "key": "C",
+        "text": "与计划生育部门联系，商讨方案"
+      },
+      {
+        "key": "D",
+        "text": "尊重病人的意见，让其自然分娩"
+      },
+      {
+        "key": "E",
+        "text": "既然病人拒绝医生的方案，医生应采取听之任之的态度"
+      }
+    ],
+    "answer": "D",
+    "stem": "王某，女，30 岁，未婚先孕，因胎膜破裂住院。医师检查发现羊水中已经有胎便，胎心 210 次 / 分，表明胎儿已处于窒息状态，于是医师决定行剖宫产，但患者不愿在以后的婚姻中让对方知道自己生育过，因此，拒绝此方案，要求自然分娩，且自然分娩对病人的生命也没有威胁。医务人员下列做法符合医学伦理学要求的是",
+    "question_id": "chapter_review-single-012"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第二单元 医疗人际关系 课后练习题",
+    "question_type": "单选题",
+    "source_no": "13",
+    "display_order": 13,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "医患关系是民事法律关系"
+      },
+      {
+        "key": "B",
+        "text": "医患关系的主体是医疗机构和就诊的病人"
+      },
+      {
+        "key": "C",
+        "text": "医患关系的内容是病人和医疗机构之间的权利与义务关系"
+      },
+      {
+        "key": "D",
+        "text": "医患关系是不平等的关系"
+      },
+      {
+        "key": "E",
+        "text": "医患关系是自愿的结成的关系"
+      }
+    ],
+    "answer": "D",
+    "stem": "关于医患关系是契约关系，不正确的是",
+    "question_id": "chapter_review-single-013"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第二单元 医疗人际关系 课后练习题",
+    "question_type": "单选题",
+    "source_no": "14",
+    "display_order": 14,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "医学高技术手段的大量应用"
+      },
+      {
+        "key": "B",
+        "text": "医院分科越来越细，医生日益专科化"
+      },
+      {
+        "key": "C",
+        "text": "医生工作量加大"
+      },
+      {
+        "key": "D",
+        "text": "患者对医生的信任感降低"
+      },
+      {
+        "key": "E",
+        "text": "患者过多依赖医学高技术的检测手段"
+      }
+    ],
+    "answer": "A",
+    "stem": "医患关系出现物化趋势的最主要原因是",
+    "question_id": "chapter_review-single-014"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第二单元 医疗人际关系 课后练习题",
+    "question_type": "单选题",
+    "source_no": "15",
+    "display_order": 15,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "医生张某违背了不伤害原则"
+      },
+      {
+        "key": "B",
+        "text": "医生张某违背了公正原则"
+      },
+      {
+        "key": "C",
+        "text": "医生张某违背了审慎的道德要求"
+      },
+      {
+        "key": "D",
+        "text": "医生张某违背了尊重原则"
+      },
+      {
+        "key": "E",
+        "text": "医生张某违背了有利原则"
+      }
+    ],
+    "answer": "C",
+    "stem": "王某，女，在甲医院体检时发现乳腺有肿物，大夫建议做进一步检查，遂在丈夫陪同下到某肿瘤专科医院做进一步检查。大夫张某作了检查后认为是增生，患者介绍了在甲医院检查的情况，张某毫不在意，在患者及家属的要求下，开了 X 线检查单。片子出来后，张某看了一眼说：“我说是增生吧，你们不信，根本不用照片子，我一摸就是增生，吃了药，缓解了就不用来了”。5 个月后，患者又来该院治疗，确诊为 “乳腺癌三期”。作了乳腺根除术，主治大夫责怪其 “为什么不早来院检查治疗”。针对本案例，下列分析最恰当的是",
+    "question_id": "chapter_review-single-015"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第二单元 医疗人际关系 课后练习题",
+    "question_type": "单选题",
+    "source_no": "16",
+    "display_order": 16,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "医患关系"
+      },
+      {
+        "key": "B",
+        "text": "医疗团体与社会的关系"
+      },
+      {
+        "key": "C",
+        "text": "医护关系"
+      },
+      {
+        "key": "D",
+        "text": "医际关系"
+      },
+      {
+        "key": "E",
+        "text": "护患关系"
+      }
+    ],
+    "answer": "A",
+    "stem": "医疗活动中最基本、最重要的人际关系是",
+    "question_id": "chapter_review-single-016"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第二单元 医疗人际关系 课后练习题",
+    "question_type": "单选题",
+    "source_no": "17",
+    "display_order": 17,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "医师应该为男士保密"
+      },
+      {
+        "key": "B",
+        "text": "医师应该告知女士真实情况，但对外保密"
+      },
+      {
+        "key": "C",
+        "text": "医师应该说服男士，将实情告知女友，但若男士坚决反对，则应尊重其意见"
+      },
+      {
+        "key": "D",
+        "text": "该女士无权向医师提出知晓其男友实情的要求"
+      },
+      {
+        "key": "E",
+        "text": "请示领导再作决定"
+      }
+    ],
+    "answer": "B",
+    "stem": "一对恋人来到某妇幼保健院做婚检。检查结果发现男方患有梅毒，男方担心女友离开自己，要求医生为自己保密。女方则要求医师告知其男友的真实情况。从医学伦理学的角度分析，最合理的是",
+    "question_id": "chapter_review-single-017"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第二单元 医疗人际关系 课后练习题",
+    "question_type": "单选题",
+    "source_no": "18",
+    "display_order": 18,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "主动 — 被动型，共同参与型，父权主义型"
+      },
+      {
+        "key": "B",
+        "text": "指导 — 合作型，平等参与型，母权主义型"
+      },
+      {
+        "key": "C",
+        "text": "指导 — 合作型，共同参与型，技术型"
+      },
+      {
+        "key": "D",
+        "text": "主动 — 被动型，指导 — 合作型，共同参与型"
+      },
+      {
+        "key": "E",
+        "text": "主动 — 被动型，指导 — 配合型，父权主义型"
+      }
+    ],
+    "answer": "D",
+    "stem": "萨斯和荷伦德等提出的医患关系基本模式是",
+    "question_id": "chapter_review-single-018"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第二单元 医疗人际关系 课后练习题",
+    "question_type": "单选题",
+    "source_no": "19",
+    "display_order": 19,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "根据职务、职称不同，区别对待"
+      },
+      {
+        "key": "B",
+        "text": "根据学历、职务的高低，分配发展机会"
+      },
+      {
+        "key": "C",
+        "text": "彼此信任、互相协作和监督"
+      },
+      {
+        "key": "D",
+        "text": "互相尊重，“井水不犯河水”"
+      },
+      {
+        "key": "E",
+        "text": "互相尊重，坚持独立，注重自我发展"
+      }
+    ],
+    "answer": "C",
+    "stem": "正确处理医际关系的原则是",
+    "question_id": "chapter_review-single-019"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第二单元 医疗人际关系 课后练习题",
+    "question_type": "单选题",
+    "source_no": "20",
+    "display_order": 20,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "服从医院的发展"
+      },
+      {
+        "key": "B",
+        "text": "服从病人的权利"
+      },
+      {
+        "key": "C",
+        "text": "服从社会公益"
+      },
+      {
+        "key": "D",
+        "text": "服从医院行政领导"
+      },
+      {
+        "key": "E",
+        "text": "服从家属的意愿"
+      }
+    ],
+    "answer": "B",
+    "stem": "在医疗过程中，医生的医疗权应该",
+    "question_id": "chapter_review-single-020"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第三单元 临床诊疗伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "21",
+    "display_order": 21,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "民主化趋势"
+      },
+      {
+        "key": "B",
+        "text": "物化趋势"
+      },
+      {
+        "key": "C",
+        "text": "法制化趋势"
+      },
+      {
+        "key": "D",
+        "text": "分化趋势"
+      },
+      {
+        "key": "E",
+        "text": "商品化趋势"
+      }
+    ],
+    "answer": "B",
+    "stem": "医生诊断治疗越来越依赖于检查、化验所得的指标和数据，医生和病人的直接交流也因此减少，反映出医患关系出现",
+    "question_id": "chapter_review-single-021"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第三单元 临床诊疗伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "22",
+    "display_order": 22,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "诊治手段最佳、相对安全，患者痛苦最少，经济耗费少"
+      },
+      {
+        "key": "B",
+        "text": "诊治手段在当时的医学科学水平上来看是最佳的，相对安全、副作用小，痛苦最少"
+      },
+      {
+        "key": "C",
+        "text": "诊治手段在当时的医学科学水平上看来是最佳的，相对安全，损伤最小，痛苦少，经济耗费少"
+      },
+      {
+        "key": "D",
+        "text": "诊治手段在当时的医学科学水平上来看是最佳的，绝对安全，损伤小，痛苦少，经济耗费少"
+      },
+      {
+        "key": "E",
+        "text": "以上都不全面"
+      }
+    ],
+    "answer": "E",
+    "stem": "医学伦理学中的最优化原则是指",
+    "question_id": "chapter_review-single-022"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第三单元 临床诊疗伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "23",
+    "display_order": 23,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "临床诊疗伦理的关键任务是调整好医患关系"
+      },
+      {
+        "key": "B",
+        "text": "临床诊疗伦理来源于长期的医学实践活动"
+      },
+      {
+        "key": "C",
+        "text": "临床诊疗伦理的核心是医学专业精神"
+      },
+      {
+        "key": "D",
+        "text": "临床诊疗伦理主要是对医患关系的协调"
+      },
+      {
+        "key": "E",
+        "text": "临床诊疗伦理的重点是强调医务人员个体的自律"
+      }
+    ],
+    "answer": "C",
+    "stem": "下面不属于临床诊疗伦理特点的是",
+    "question_id": "chapter_review-single-023"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第三单元 临床诊疗伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "24",
+    "display_order": 24,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "整体功利原则"
+      },
+      {
+        "key": "B",
+        "text": "最小伤害原则"
+      },
+      {
+        "key": "C",
+        "text": "补偿正义原则"
+      },
+      {
+        "key": "D",
+        "text": "公众知情与社区参与原则"
+      },
+      {
+        "key": "E",
+        "text": "以上都是"
+      }
+    ],
+    "answer": "E",
+    "stem": "公共健康实践的伦理原则是",
+    "question_id": "chapter_review-single-024"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第三单元 临床诊疗伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "25",
+    "display_order": 25,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "《伤寒杂病论》"
+      },
+      {
+        "key": "B",
+        "text": "《备急千金要方》"
+      },
+      {
+        "key": "C",
+        "text": "《黄帝内经》"
+      },
+      {
+        "key": "D",
+        "text": "《本草纲目》"
+      },
+      {
+        "key": "E",
+        "text": "《周易》"
+      }
+    ],
+    "answer": "C",
+    "stem": "体现预防医学思想的 “圣人不治已病治未病” 出自",
+    "question_id": "chapter_review-single-025"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第三单元 临床诊疗伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "26",
+    "display_order": 26,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "《纽伦堡法典》"
+      },
+      {
+        "key": "B",
+        "text": "《赫尔辛基宣言》"
+      },
+      {
+        "key": "C",
+        "text": "《胡弗兰德十二箴》"
+      },
+      {
+        "key": "D",
+        "text": "《希波克拉底誓言》"
+      },
+      {
+        "key": "E",
+        "text": "《夏威夷宣言》"
+      }
+    ],
+    "answer": "A",
+    "stem": "知情同意的伦理学原则最先是在正式确立",
+    "question_id": "chapter_review-single-026"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第三单元 临床诊疗伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "27",
+    "display_order": 27,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "信息的告知"
+      },
+      {
+        "key": "B",
+        "text": "信息的来源"
+      },
+      {
+        "key": "C",
+        "text": "对信息的理解"
+      },
+      {
+        "key": "D",
+        "text": "自由地同意"
+      },
+      {
+        "key": "E",
+        "text": "同意的能力"
+      }
+    ],
+    "answer": "B",
+    "stem": "以下不属于知情同意的内容的是",
+    "question_id": "chapter_review-single-027"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第三单元 临床诊疗伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "28",
+    "display_order": 28,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "患者第一原则"
+      },
+      {
+        "key": "B",
+        "text": "整体性及协同一致原则"
+      },
+      {
+        "key": "C",
+        "text": "最优化原则"
+      },
+      {
+        "key": "D",
+        "text": "知情同意原则"
+      },
+      {
+        "key": "E",
+        "text": "以上都是"
+      }
+    ],
+    "answer": "E",
+    "stem": "临床诊疗的伦理原则包括",
+    "question_id": "chapter_review-single-028"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第三单元 临床诊疗伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "29",
+    "display_order": 29,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "整体性原则"
+      },
+      {
+        "key": "B",
+        "text": "协同一致原则"
+      },
+      {
+        "key": "C",
+        "text": "知情同意原则"
+      },
+      {
+        "key": "D",
+        "text": "患者第一原则"
+      },
+      {
+        "key": "E",
+        "text": "最优化原则"
+      }
+    ],
+    "answer": "D",
+    "stem": "以人民为中心的理念在临床诊疗伦理中的具体体现是",
+    "question_id": "chapter_review-single-029"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第三单元 临床诊疗伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "30",
+    "display_order": 30,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "父母"
+      },
+      {
+        "key": "B",
+        "text": "国家"
+      },
+      {
+        "key": "C",
+        "text": "社会"
+      },
+      {
+        "key": "D",
+        "text": "每个人"
+      },
+      {
+        "key": "E",
+        "text": "家庭"
+      }
+    ],
+    "answer": "D",
+    "stem": "（）是自己健康的第一责任人",
+    "question_id": "chapter_review-single-030"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第四单元 医学科研与人体实验伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "31",
+    "display_order": 31,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "追求真理，造福人类"
+      },
+      {
+        "key": "B",
+        "text": "尊重科学，实事求是"
+      },
+      {
+        "key": "C",
+        "text": "团结协作，尊重他人"
+      },
+      {
+        "key": "D",
+        "text": "吃苦耐劳，百折不挠"
+      },
+      {
+        "key": "E",
+        "text": "以上都是"
+      }
+    ],
+    "answer": "E",
+    "stem": "医学科研伦理的基本道德要求是",
+    "question_id": "chapter_review-single-031"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第四单元 医学科研与人体实验伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "32",
+    "display_order": 32,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "人体实验的危险应该是很小的"
+      },
+      {
+        "key": "B",
+        "text": "人体实验的危险不能超过实验带来的利益"
+      },
+      {
+        "key": "C",
+        "text": "人体实验应该是没有风险的"
+      },
+      {
+        "key": "D",
+        "text": "人体实验应该以不损害人们的健康为前提"
+      },
+      {
+        "key": "E",
+        "text": "人体实验应该预测到所有的风险和预测的价值"
+      }
+    ],
+    "answer": "B",
+    "stem": "人体实验的道德原则中维护受试者利益指",
+    "question_id": "chapter_review-single-032"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第四单元 医学科研与人体实验伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "33",
+    "display_order": 33,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1949 年《医学伦理学日内瓦协议》"
+      },
+      {
+        "key": "B",
+        "text": "1964 年世界医学会《赫尔辛基宣言》"
+      },
+      {
+        "key": "C",
+        "text": "1946 年《纽伦堡法典》"
+      },
+      {
+        "key": "D",
+        "text": "1968 年世界医学会《悉尼宣言》"
+      },
+      {
+        "key": "E",
+        "text": "1975 年世界医学会《东京宣言》"
+      }
+    ],
+    "answer": "C",
+    "stem": "人体实验应该得到受试者完全知情同意、并在没有任何压力和自愿的状态下进行这一原则最早出自",
+    "question_id": "chapter_review-single-033"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第四单元 医学科研与人体实验伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "34",
+    "display_order": 34,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "只要医学研究需要就可进行"
+      },
+      {
+        "key": "B",
+        "text": "只要经过大量、可靠的动物试验后就可进行"
+      },
+      {
+        "key": "C",
+        "text": "只要课题组论证充分就可进行"
+      },
+      {
+        "key": "D",
+        "text": "只要在专家组的监督下就可进行"
+      },
+      {
+        "key": "E",
+        "text": "只要课题组上报完整、严谨的报告，经专家组及上级主管部门经规定程序审批后就可进行"
+      }
+    ],
+    "answer": "E",
+    "stem": "人体试验",
+    "question_id": "chapter_review-single-034"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第四单元 医学科研与人体实验伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "35",
+    "display_order": 35,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "是人体试验的重要方法"
+      },
+      {
+        "key": "B",
+        "text": "是对病人的一种欺骗"
+      },
+      {
+        "key": "C",
+        "text": "是违背人道主义原则的"
+      },
+      {
+        "key": "D",
+        "text": "是违背知情同意原则的"
+      },
+      {
+        "key": "E",
+        "text": "会损害受试者利益"
+      }
+    ],
+    "answer": "A",
+    "stem": "在人体实验中使用对照组、安慰剂和双盲法",
+    "question_id": "chapter_review-single-035"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第四单元 医学科研与人体实验伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "36",
+    "display_order": 36,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "有利于医学和社会发展"
+      },
+      {
+        "key": "B",
+        "text": "必须实事求是"
+      },
+      {
+        "key": "C",
+        "text": "维护受试者利益"
+      },
+      {
+        "key": "D",
+        "text": "严谨的科学态度"
+      },
+      {
+        "key": "E",
+        "text": "受试者知情同意"
+      }
+    ],
+    "answer": "B",
+    "stem": "人体实验的道德原则，不包括",
+    "question_id": "chapter_review-single-036"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第四单元 医学科研与人体实验伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "37",
+    "display_order": 37,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "《赫尔辛基宣言》"
+      },
+      {
+        "key": "B",
+        "text": "《悉尼宣言》"
+      },
+      {
+        "key": "C",
+        "text": "《日内瓦协议法》"
+      },
+      {
+        "key": "D",
+        "text": "《阿拉木图宣言》"
+      },
+      {
+        "key": "E",
+        "text": "《纽伦堡法典》"
+      }
+    ],
+    "answer": "E",
+    "stem": "1946 年诞生的人体实验的医学伦理文件是",
+    "question_id": "chapter_review-single-037"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第四单元 医学科研与人体实验伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "38",
+    "display_order": 38,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "《赫尔辛基宣言》"
+      },
+      {
+        "key": "B",
+        "text": "《悉尼宣言》"
+      },
+      {
+        "key": "C",
+        "text": "《日内瓦协议法》"
+      },
+      {
+        "key": "D",
+        "text": "《纽伦堡法典》"
+      },
+      {
+        "key": "E",
+        "text": "《阿拉木图宣言》"
+      }
+    ],
+    "answer": "A",
+    "stem": "1964 年世界医学大会颁布、又经过多次修订的关于医学实验的医学伦理文件是",
+    "question_id": "chapter_review-single-038"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第四单元 医学科研与人体实验伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "39",
+    "display_order": 39,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "参加试验者意外受到伤害，有权获得相当于损失大小的赔偿"
+      },
+      {
+        "key": "B",
+        "text": "研究资料在正式发表之前要求保密，以保护研究者的科学研究利益"
+      },
+      {
+        "key": "C",
+        "text": "研究者必须尊重病人的隐私权"
+      },
+      {
+        "key": "D",
+        "text": "因试验导致病人死亡或因试验加重病情导致病人死亡，研究者有过错的，死者家属有权获得赔偿"
+      },
+      {
+        "key": "E",
+        "text": "可预见的不良反应也应在赔偿之列"
+      }
+    ],
+    "answer": "E",
+    "stem": "在人体实验中下列做法不合乎伦理的是",
+    "question_id": "chapter_review-single-039"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第四单元 医学科研与人体实验伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "40",
+    "display_order": 40,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "受试者有权知道自己是实验组还是对照组"
+      },
+      {
+        "key": "B",
+        "text": "受试者有权获知有关实验目的、性质、方法、预期好处、潜在危险等的详细信息"
+      },
+      {
+        "key": "C",
+        "text": "实验者必须引导病人及其家属知情同意"
+      },
+      {
+        "key": "D",
+        "text": "受试者只要参加实验，就不得退出"
+      },
+      {
+        "key": "E",
+        "text": "以无行为能力的人作为受试者，不需要贯彻知情同意原则"
+      }
+    ],
+    "answer": "B",
+    "stem": "在人体实验中下列做法合乎伦理的是",
+    "question_id": "chapter_review-single-040"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第五单元 生殖技术、器官移植与基因伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "41",
+    "display_order": 41,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "代孕技术"
+      },
+      {
+        "key": "B",
+        "text": "同源人工授精"
+      },
+      {
+        "key": "C",
+        "text": "异源人工授精"
+      },
+      {
+        "key": "D",
+        "text": "克隆技术"
+      },
+      {
+        "key": "E",
+        "text": "体外受精"
+      }
+    ],
+    "answer": "D",
+    "stem": "运用现代医学技术，不通过两性结合，而进行高等动物（包括人）生殖的技术是",
+    "question_id": "chapter_review-single-041"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第五单元 生殖技术、器官移植与基因伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "42",
+    "display_order": 42,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "人工授精"
+      },
+      {
+        "key": "B",
+        "text": "同源人工授精"
+      },
+      {
+        "key": "C",
+        "text": "异源人工授精"
+      },
+      {
+        "key": "D",
+        "text": "无性生殖"
+      },
+      {
+        "key": "E",
+        "text": "体外受精"
+      }
+    ],
+    "answer": "D",
+    "stem": "目前，我国禁止的生殖技术是",
+    "question_id": "chapter_review-single-042"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第五单元 生殖技术、器官移植与基因伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "43",
+    "display_order": 43,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "不能为了个人的利益，向没有血缘关系者恳求、或利诱其捐出器官"
+      },
+      {
+        "key": "B",
+        "text": "捐赠者已达到法定年龄"
+      },
+      {
+        "key": "C",
+        "text": "不可付钱给捐赠者，但可给捐赠者在手术与住院期间所受到的经济损失给予补偿"
+      },
+      {
+        "key": "D",
+        "text": "捐赠者应符合伦理、医学与心理方面的捐赠标准"
+      },
+      {
+        "key": "E",
+        "text": "可接受未成年人捐献的器官，但应保证其身体不受严重影响"
+      }
+    ],
+    "answer": "E",
+    "stem": "活体器官移植接受者及其家属，对捐赠者应遵守的准则不包括",
+    "question_id": "chapter_review-single-043"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第五单元 生殖技术、器官移植与基因伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "44",
+    "display_order": 44,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "提供给 2 名妇女受孕"
+      },
+      {
+        "key": "B",
+        "text": "提供给 3 名妇女受孕"
+      },
+      {
+        "key": "C",
+        "text": "提供给 4 名妇女受孕"
+      },
+      {
+        "key": "D",
+        "text": "提供给 5 名妇女受孕"
+      },
+      {
+        "key": "E",
+        "text": "提供给 6 名妇女受孕"
+      }
+    ],
+    "answer": "D",
+    "stem": "生殖技术的合理使用必须遵循维护社会公益原则，其中规定同一供精者的精子最多只能",
+    "question_id": "chapter_review-single-044"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第五单元 生殖技术、器官移植与基因伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "45",
+    "display_order": 45,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "对于有基因缺陷的病人，医务人员应尊重其人格和权利"
+      },
+      {
+        "key": "B",
+        "text": "必须向患者或其家属做出相应的解释，由其自主决定是否接受诊断和治疗"
+      },
+      {
+        "key": "C",
+        "text": "必须确信基因治疗有效，而且预期疗效大于危险"
+      },
+      {
+        "key": "D",
+        "text": "需要遵循一定的审批程序以保证相应原则的落实"
+      },
+      {
+        "key": "E",
+        "text": "应该遵循资源共享原则，不能将病人的情况向外界保密"
+      }
+    ],
+    "answer": "E",
+    "stem": "关于基因诊断和基因治疗，合乎医学伦理的是",
+    "question_id": "chapter_review-single-045"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第五单元 生殖技术、器官移植与基因伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "46",
+    "display_order": 46,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "医师应该为男士保密"
+      },
+      {
+        "key": "B",
+        "text": "医师应该告知女士真实情况，但对外保密"
+      },
+      {
+        "key": "C",
+        "text": "医师应该说服男士，将实情告知女友，但若男士坚决反对，则应尊重其意见"
+      },
+      {
+        "key": "D",
+        "text": "该女士无权向医师提出知晓其男友实情的要求"
+      },
+      {
+        "key": "E",
+        "text": "请示领导再作决定"
+      }
+    ],
+    "answer": "B",
+    "stem": "一对恋人来到某妇幼保健院做婚检。检查结果发现男方患有梅毒，男方担心女友离开自己，要求医生为自己保密。女方则要求医师告知其男友的真实情况。从医学伦理学的角度分析，最合理的是",
+    "question_id": "chapter_review-single-046"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第五单元 生殖技术、器官移植与基因伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "47",
+    "display_order": 47,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "医院建议放弃婴儿的意见是符合道德的，对家庭、父母、社会都有利"
+      },
+      {
+        "key": "B",
+        "text": "病儿的存在使父母无力再生一个健康的孩子，享受不到应有的天伦之乐，从伦理角度看，是不道德的"
+      },
+      {
+        "key": "C",
+        "text": "患儿对社会毫无价值，在出生不久后让其死亡，比让其活着更人道"
+      },
+      {
+        "key": "D",
+        "text": "从我国现有的生命价值观出发，对已存活的 “21 三体综合征” 患儿应尽力照顾和培养他，使其逐渐能料理生活，减轻家庭负担"
+      },
+      {
+        "key": "E",
+        "text": "这类患儿长大以后，可以同意其结婚，但不允许其生育"
+      }
+    ],
+    "answer": "D",
+    "stem": "吴某，男，15 岁，四肢短小、塌鼻、眼裂小、吐舌，呈先天愚型面容，口齿不清、智力低下，无生活自理能力。该患儿出生后 7 天，医院便诊断其为 “21 综合体综合征”，建议家属放弃该患儿。作为医生，患儿父母明知孩子的生命没有价值，但出于对孩子的爱，拒绝了院方的建议。10 多年来，为了照顾孩子，母亲常年在家休假，并再也没有生育。下列各点，你认为最可取的是",
+    "question_id": "chapter_review-single-047"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第五单元 生殖技术、器官移植与基因伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "48",
+    "display_order": 48,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "医生通过人工授精的手术治疗、补偿丈夫的生育功能，是道德的"
+      },
+      {
+        "key": "B",
+        "text": "医院应该让夫妇签订协议"
+      },
+      {
+        "key": "C",
+        "text": "家人去医院调查，医师如实告知家人，是道德的"
+      },
+      {
+        "key": "D",
+        "text": "通过人工授精所生的子女，应该视为婚生子女"
+      },
+      {
+        "key": "E",
+        "text": "丈夫的家人认为人工授精使自己家的血脉破坏了，是错误的观念"
+      }
+    ],
+    "answer": "C",
+    "stem": "一对夫妻结婚 3 年未育。经查，丈夫张某患有无精症。在没有签订任何协议的情况下，二人于某大学医学院附属医院接受了异源人工授精手术后生育一子。孩子 3 岁时，全家回丈夫的老家探亲。丈夫家人发现孩子与其父长得不像，遂到张某曾经就诊的医院调查，从医生处得知实情，家人大为恼火，认为此举破坏了自家的血脉。在家人的干预下，夫妻最终反目离婚。从医学伦理的角度，下列分析不合理的是",
+    "question_id": "chapter_review-single-048"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第五单元 生殖技术、器官移植与基因伦理 练习题",
+    "question_type": "匹配题",
+    "source_no": "49",
+    "display_order": 49,
+    "group_range": "(1)A；(2)A；(3)A",
+    "stem": "运用现代医学技术，不通过两性结合进行高等动物（包括人）生殖的技术是",
+    "options": [
+      {
+        "key": "A",
+        "text": "无性生殖"
+      },
+      {
+        "key": "B",
+        "text": "同源人工授精"
+      },
+      {
+        "key": "C",
+        "text": "异源人工授精"
+      },
+      {
+        "key": "D",
+        "text": "试管婴儿技术"
+      },
+      {
+        "key": "E",
+        "text": "体外受精"
+      }
+    ],
+    "answer": "A",
+    "question_id": "chapter_review-match-049"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第五单元 生殖技术、器官移植与基因伦理 练习题",
+    "question_type": "匹配题",
+    "source_no": "50",
+    "display_order": 50,
+    "group_range": "(1)A；(2)A；(3)A",
+    "stem": "由于伦理方面的原因，目前尚未在人类身上成为现实的辅助生殖技术是",
+    "options": [
+      {
+        "key": "A",
+        "text": "无性生殖"
+      },
+      {
+        "key": "B",
+        "text": "同源人工授精"
+      },
+      {
+        "key": "C",
+        "text": "异源人工授精"
+      },
+      {
+        "key": "D",
+        "text": "试管婴儿技术"
+      },
+      {
+        "key": "E",
+        "text": "体外受精"
+      }
+    ],
+    "answer": "A",
+    "question_id": "chapter_review-match-050"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第五单元 生殖技术、器官移植与基因伦理 练习题",
+    "question_type": "匹配题",
+    "source_no": "51",
+    "display_order": 51,
+    "group_range": "(1)A；(2)A；(3)A",
+    "stem": "目前我国禁止的生殖技术是",
+    "options": [
+      {
+        "key": "A",
+        "text": "无性生殖"
+      },
+      {
+        "key": "B",
+        "text": "同源人工授精"
+      },
+      {
+        "key": "C",
+        "text": "异源人工授精"
+      },
+      {
+        "key": "D",
+        "text": "试管婴儿技术"
+      },
+      {
+        "key": "E",
+        "text": "体外受精"
+      }
+    ],
+    "answer": "A",
+    "question_id": "chapter_review-match-051"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第五单元 生殖技术、器官移植与基因伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "52",
+    "display_order": 52,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "胚胎是人类的生物学生命没必要对之尊重"
+      },
+      {
+        "key": "B",
+        "text": "人类胚胎干细胞的研究和应用必须考虑安全性"
+      },
+      {
+        "key": "C",
+        "text": "人类胚胎干细胞的研究和应用必须考虑有效性"
+      },
+      {
+        "key": "D",
+        "text": "人类胚胎干细胞的研究和应用必须防止商品化"
+      },
+      {
+        "key": "E",
+        "text": "人类胚胎干细胞的研究和应用必须遵循知情同意原则"
+      }
+    ],
+    "answer": "A",
+    "stem": "人类胚胎干细胞的研究和应用不合乎医学伦理的是",
+    "question_id": "chapter_review-single-052"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第六单元 临终关怀与死亡伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "53",
+    "display_order": 53,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "仍以延长病人生命的治疗积极为主"
+      },
+      {
+        "key": "B",
+        "text": "临终关怀是 24 小时的全程服务"
+      },
+      {
+        "key": "C",
+        "text": "临终关怀注重的是对临终病人的照护"
+      },
+      {
+        "key": "D",
+        "text": "临终病人死亡，临终关怀即可结束"
+      }
+    ],
+    "answer": "B",
+    "stem": "关于临终关怀，正确的是",
+    "question_id": "chapter_review-single-053"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第六单元 临终关怀与死亡伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "54",
+    "display_order": 54,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "人权主义的观点"
+      },
+      {
+        "key": "B",
+        "text": "功利主义的观点"
+      },
+      {
+        "key": "C",
+        "text": "享乐主义的观点"
+      },
+      {
+        "key": "D",
+        "text": "宗教主义的观点"
+      },
+      {
+        "key": "E",
+        "text": "医学人道主义的观点"
+      }
+    ],
+    "answer": "A",
+    "stem": "支持安乐死的主要伦理依据是",
+    "question_id": "chapter_review-single-054"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第六单元 临终关怀与死亡伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "55",
+    "display_order": 55,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "违背了人权主义"
+      },
+      {
+        "key": "B",
+        "text": "违背了功利主义"
+      },
+      {
+        "key": "C",
+        "text": "违背了生命价值论"
+      },
+      {
+        "key": "D",
+        "text": "违背了公益论"
+      },
+      {
+        "key": "E",
+        "text": "违背了医学人道主义"
+      }
+    ],
+    "answer": "E",
+    "stem": "反对安乐死的依据是",
+    "question_id": "chapter_review-single-055"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第六单元 临终关怀与死亡伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "56",
+    "display_order": 56,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "澳大利亚"
+      },
+      {
+        "key": "B",
+        "text": "美国"
+      },
+      {
+        "key": "C",
+        "text": "荷兰"
+      },
+      {
+        "key": "D",
+        "text": "德国"
+      },
+      {
+        "key": "E",
+        "text": "英国"
+      }
+    ],
+    "answer": "C",
+    "stem": "目前，国际上从立法角度认可安乐死的国家是",
+    "question_id": "chapter_review-single-056"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第六单元 临终关怀与死亡伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "57",
+    "display_order": 57,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "尽可能延长临终病人的生命，给临终病人更多的关心和照顾"
+      },
+      {
+        "key": "B",
+        "text": "尽可能满足临终病人的生理需要，体现医学的人道主义本质"
+      },
+      {
+        "key": "C",
+        "text": "尽可能满足家属的生理需求，体现医学的人道主义本质"
+      },
+      {
+        "key": "D",
+        "text": "临终关怀维护了临终病人的生命价值与尊严，是人们易于接受的临终处置方式"
+      },
+      {
+        "key": "E",
+        "text": "作为安乐死的代名词，临终关怀既能使病人尊严地、舒适地离开人间，又易于为人接受"
+      }
+    ],
+    "answer": "D",
+    "stem": "临终关怀是人道主义在医学领域内的升华，其伦理学意义在于",
+    "question_id": "chapter_review-single-057"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第六单元 临终关怀与死亡伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "58",
+    "display_order": 58,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "为处置植物人提供科学依据"
+      },
+      {
+        "key": "B",
+        "text": "有利于人们从整体上认识死亡"
+      },
+      {
+        "key": "C",
+        "text": "有利于减轻家属的负担"
+      },
+      {
+        "key": "D",
+        "text": "能激励人们珍视生命"
+      },
+      {
+        "key": "E",
+        "text": "能激励人们努力工作"
+      }
+    ],
+    "answer": "B",
+    "stem": "脑死亡标准的伦理学意义具体体现为",
+    "question_id": "chapter_review-single-058"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第六单元 临终关怀与死亡伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "59",
+    "display_order": 59,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "病人必须已无药可治，且病痛难忍"
+      },
+      {
+        "key": "B",
+        "text": "病人必须反复多次要求接受安乐死，并确信是本人自愿的行为"
+      },
+      {
+        "key": "C",
+        "text": "医生必须与其他医生对为病人实施安乐死进行商讨"
+      },
+      {
+        "key": "D",
+        "text": "给病人实施安乐死，必须经家属同意"
+      },
+      {
+        "key": "E",
+        "text": "医生对符合安乐死条件者，向由法律、医疗和伦理三方面专家组成的监督小组及时报告"
+      }
+    ],
+    "answer": "D",
+    "stem": "荷兰政府规定医生给病人实施安乐死不会受到指控，但有一点不包括在内",
+    "question_id": "chapter_review-single-059"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第六单元 临终关怀与死亡伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "60",
+    "display_order": 60,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "积极安乐死"
+      },
+      {
+        "key": "B",
+        "text": "助死"
+      },
+      {
+        "key": "C",
+        "text": "消极安乐死"
+      },
+      {
+        "key": "D",
+        "text": "人工死亡"
+      },
+      {
+        "key": "E",
+        "text": "仁慈杀人"
+      }
+    ],
+    "answer": "C",
+    "stem": "对患有不治之症又极度痛苦的病人，停止采用人工干预方式，缩短痛苦的死亡过程称为",
+    "question_id": "chapter_review-single-060"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第六单元 临终关怀与死亡伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "61",
+    "display_order": 61,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "同意病人提出的安乐死要求"
+      },
+      {
+        "key": "B",
+        "text": "回家休息对症治疗"
+      },
+      {
+        "key": "C",
+        "text": "收入病房，对症处理"
+      },
+      {
+        "key": "D",
+        "text": "同意病人妻子的要求"
+      },
+      {
+        "key": "E",
+        "text": "进一步检查后，诊断明确，病人痛苦难忍，在家属和本人要求下，经一定的审批程序，可实施安宁疗护"
+      }
+    ],
+    "answer": "E",
+    "stem": "杨某，男，65 岁，风湿性心脏病伴房颤，慢性心功能不全十余年，因发热，腹胀痛，不能进食，消瘦明显来院治疗。入院后检查发现肝肿大，中度腹水，ａ-FP (+)，确诊为肝癌晚期，并逐渐出现恶病质症状。病人要求安乐死以求尽早摆脱痛苦，但妻子要求积极抢救治疗，子女和领导表示尊重医院采纳的方案。针对此例病人，符合医学道德的行为选择应该是",
+    "question_id": "chapter_review-single-061"
+  },
+  {
+    "source_doc": "伦理章节测.docx",
+    "bank_key": "chapter_review_bank",
+    "section_title": "第六单元 临终关怀与死亡伦理 练习题",
+    "question_type": "单选题",
+    "source_no": "62",
+    "display_order": 62,
+    "group_range": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "尊重家属的意见，停止抢救与治疗"
+      },
+      {
+        "key": "B",
+        "text": "尊重单位的意见，不惜一切代价抢救与治疗"
+      },
+      {
+        "key": "C",
+        "text": "在家属和单位意见不统一情况下，采取支持疗法"
+      },
+      {
+        "key": "D",
+        "text": "医生根据病人具体情况，慎重做出选择"
+      },
+      {
+        "key": "E",
+        "text": "从公益论原则出发，可在取得家属与单位的支持下，停止抢救与治疗"
+      }
+    ],
+    "answer": "E",
+    "stem": "李某，男，40 岁，建筑工人，因工伤送入医院抢救。医院虽进行了积极的抢救，但一周后，病情未好转又发生了感染性中毒性休克，继而出现循环和肾衰竭，难以康复。家属和单位得知病人预后的消息后，出现了两种态度：家属要求放弃治疗和抢救，而单位要求不惜一切代价再继续维持抢救与治疗。面对家属与单位的意见冲突，医生应该做何种选择最符合伦理原则",
+    "question_id": "chapter_review-single-062"
+  },
+  {
+    "question_id": "nmu_self_test-a1-001",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "1",
+    "display_order": 63,
+    "group_range": null,
+    "stem": "医学伦理学是",
+    "options": [
+      {
+        "key": "A",
+        "text": "研究人与人之间关系的科学"
+      },
+      {
+        "key": "B",
+        "text": "研究人与社会之间关系的科学"
+      },
+      {
+        "key": "C",
+        "text": "研究医务人员的医德意识和医德活动的科学"
+      },
+      {
+        "key": "D",
+        "text": "研究科学道德或科学哲学的学科"
+      },
+      {
+        "key": "E",
+        "text": "研究医疗人际关系的学科"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-002",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "2",
+    "display_order": 64,
+    "group_range": null,
+    "stem": "医学道德的意识现象和活动现象之间的关系是",
+    "options": [
+      {
+        "key": "A",
+        "text": "可以互相代替的"
+      },
+      {
+        "key": "B",
+        "text": "可以互相补充的"
+      },
+      {
+        "key": "C",
+        "text": "互不相干"
+      },
+      {
+        "key": "D",
+        "text": "可以割裂的"
+      },
+      {
+        "key": "E",
+        "text": "相互依存、相互渗透、不可分割的"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-003",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "3",
+    "display_order": 65,
+    "group_range": null,
+    "stem": "医德与医术的关系是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医术是最重要的，有了精湛医术必然有高尚医德"
+      },
+      {
+        "key": "B",
+        "text": "医德是最重要的，有了高尚医德必然有精湛医术"
+      },
+      {
+        "key": "C",
+        "text": "医德与医术密不可分，医学道德以医学技术为依托，医学技术以医学道德为指导"
+      },
+      {
+        "key": "D",
+        "text": "医德与医术没有关系，医德高尚的不一定是医术精湛的"
+      },
+      {
+        "key": "E",
+        "text": "医德与医术没有关系，医术精湛的不一定是医德高尚的"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-004",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "4",
+    "display_order": 66,
+    "group_range": null,
+    "stem": "提出“生物医学逐渐演变为生物-心理-社会医学是医学发展的必然”这一观点的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "希波克拉底"
+      },
+      {
+        "key": "B",
+        "text": "恩格尔"
+      },
+      {
+        "key": "C",
+        "text": "帕兹瓦尔"
+      },
+      {
+        "key": "D",
+        "text": "胡弗兰德"
+      },
+      {
+        "key": "E",
+        "text": "皮内尔"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-005",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "5",
+    "display_order": 67,
+    "group_range": null,
+    "stem": "医学模式转变对医学伦理学产生的影响是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医学伦理学的影响更加广泛"
+      },
+      {
+        "key": "B",
+        "text": "医学伦理学的理论更加高深"
+      },
+      {
+        "key": "C",
+        "text": "医德理论和医德观念发生变化"
+      },
+      {
+        "key": "D",
+        "text": "医学伦理学研究范围发生变化"
+      },
+      {
+        "key": "E",
+        "text": "医学伦理学的研究对象发生变化"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-006",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "6",
+    "display_order": 68,
+    "group_range": null,
+    "stem": "现代医学伦理学中，对生命的看法已转变为",
+    "options": [
+      {
+        "key": "A",
+        "text": "生命神圣论"
+      },
+      {
+        "key": "B",
+        "text": "生命质量论"
+      },
+      {
+        "key": "C",
+        "text": "生命价值论"
+      },
+      {
+        "key": "D",
+        "text": "生命质量与生命价值相统一的理论"
+      },
+      {
+        "key": "E",
+        "text": "生命神圣与生命质量、生命价值相统一的理论"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-007",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "7",
+    "display_order": 69,
+    "group_range": null,
+    "stem": "医学伦理学的研究内容大体包括以下部分，但 除外",
+    "options": [
+      {
+        "key": "A",
+        "text": "医学伦理学的基本理论"
+      },
+      {
+        "key": "B",
+        "text": "医学伦理学的基本准则、规范"
+      },
+      {
+        "key": "C",
+        "text": "伦理学产生、发展及其规律"
+      },
+      {
+        "key": "D",
+        "text": "医学道德教育、评价和修养"
+      },
+      {
+        "key": "E",
+        "text": "医学道德中特殊问题"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-008",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "8",
+    "display_order": 70,
+    "group_range": null,
+    "stem": "不同发展阶段的医学伦理学",
+    "options": [
+      {
+        "key": "A",
+        "text": "都是以前一阶段的医学伦理学为基础发展而来的"
+      },
+      {
+        "key": "B",
+        "text": "与前一阶段的医学伦理学没有关系，是一种新体系"
+      },
+      {
+        "key": "C",
+        "text": "与前一阶段的医学伦理学没有关系，内容是全新的"
+      },
+      {
+        "key": "D",
+        "text": "与前一阶段的医学伦理学没有区别，只是名称不同"
+      },
+      {
+        "key": "E",
+        "text": "与前一阶段的医学伦理学没有区别，只是内容更详细"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-009",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "9",
+    "display_order": 71,
+    "group_range": null,
+    "stem": "医学模式转变对医务人员提出的要求是",
+    "options": [
+      {
+        "key": "A",
+        "text": "建立新的医患模式"
+      },
+      {
+        "key": "B",
+        "text": "建立新的医际关系"
+      },
+      {
+        "key": "C",
+        "text": "加大继续教育的力度"
+      },
+      {
+        "key": "D",
+        "text": "改变传统的医德观念"
+      },
+      {
+        "key": "E",
+        "text": "改变传统的问诊方式"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-010",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "10",
+    "display_order": 72,
+    "group_range": null,
+    "stem": "市场经济与医学道德",
+    "options": [
+      {
+        "key": "A",
+        "text": "很难达到统一"
+      },
+      {
+        "key": "B",
+        "text": "可以达到有机统一"
+      },
+      {
+        "key": "C",
+        "text": "市场经济对医学道德的负面影响无法消除"
+      },
+      {
+        "key": "D",
+        "text": "市场经济与医学道德之间没有关系"
+      },
+      {
+        "key": "E",
+        "text": "医学道德会制约市场经济的发展"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-011",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "11",
+    "display_order": 73,
+    "group_range": null,
+    "stem": "古代医家把医学称为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "医术"
+      },
+      {
+        "key": "B",
+        "text": "仁术"
+      },
+      {
+        "key": "C",
+        "text": "人术"
+      },
+      {
+        "key": "D",
+        "text": "技术"
+      },
+      {
+        "key": "E",
+        "text": "救人"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-012",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "12",
+    "display_order": 74,
+    "group_range": null,
+    "stem": "下列关于临床决策的认识正确的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医学伦理学是正确决策的保证"
+      },
+      {
+        "key": "B",
+        "text": "临床决策是单纯的技术决策"
+      },
+      {
+        "key": "C",
+        "text": "临床决策是单纯的伦理决策"
+      },
+      {
+        "key": "D",
+        "text": "临床决策有时是技术的，有时是伦理的"
+      },
+      {
+        "key": "E",
+        "text": "技术决策和伦理决策在临床决策中很难达到统一"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-013",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "13",
+    "display_order": 75,
+    "group_range": null,
+    "stem": "西方医学伦理学的奠基人是",
+    "options": [
+      {
+        "key": "A",
+        "text": "格里高利"
+      },
+      {
+        "key": "B",
+        "text": "希波克拉底"
+      },
+      {
+        "key": "C",
+        "text": "帕兹瓦尔"
+      },
+      {
+        "key": "D",
+        "text": "胡弗兰德"
+      },
+      {
+        "key": "E",
+        "text": "皮内尔"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-014",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "14",
+    "display_order": 76,
+    "group_range": null,
+    "stem": "市场经济条件下的医德建设，重点是纠正和防止",
+    "options": [
+      {
+        "key": "A",
+        "text": "稀有卫生资源分配不公的现象"
+      },
+      {
+        "key": "B",
+        "text": "追求个人正当利益的现象"
+      },
+      {
+        "key": "C",
+        "text": "忽视卫生事业的福利性"
+      },
+      {
+        "key": "D",
+        "text": "强调医务人员的社会价值"
+      },
+      {
+        "key": "E",
+        "text": "片面追求经济效益的行为"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-015",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "15",
+    "display_order": 77,
+    "group_range": null,
+    "stem": "医学伦理学的基本原则是",
+    "options": [
+      {
+        "key": "A",
+        "text": "调节职业生活中各种关系所遵循的根本原则和最高要求"
+      },
+      {
+        "key": "B",
+        "text": "调节职业生活中人与人、人与社会关系所遵循的根本原则"
+      },
+      {
+        "key": "C",
+        "text": "调节医学职业生活中医德关系所应遵循的原则"
+      },
+      {
+        "key": "D",
+        "text": "调节医学职业生活中各种医德关系所应遵循的原则"
+      },
+      {
+        "key": "E",
+        "text": "调节医学职业生活中各种医德关系所应遵循的根本原则和最高要求"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-016",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "16",
+    "display_order": 78,
+    "group_range": null,
+    "stem": "关于全心全意为人民健康服务，不正确的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "由医学伦理学的共性所决定"
+      },
+      {
+        "key": "B",
+        "text": "是医学伦理学基本原则中的理想人格"
+      },
+      {
+        "key": "C",
+        "text": "是共产主义道德对医务人员的要求"
+      },
+      {
+        "key": "D",
+        "text": "我国卫生事业的社会主义性质决定的"
+      },
+      {
+        "key": "E",
+        "text": "是医学伦理学基本原则中的最高要求"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-017",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "17",
+    "display_order": 79,
+    "group_range": null,
+    "stem": "社会主义医德基本原则三个方面的内容是",
+    "options": [
+      {
+        "key": "A",
+        "text": "单独存在，互不联系"
+      },
+      {
+        "key": "B",
+        "text": "相互联系，互不渗透"
+      },
+      {
+        "key": "C",
+        "text": "相互依存，相互渗透"
+      },
+      {
+        "key": "D",
+        "text": "相互联系，可分可合"
+      },
+      {
+        "key": "E",
+        "text": "相互联系，不可分割"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-018",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "18",
+    "display_order": 80,
+    "group_range": null,
+    "stem": "医学伦理学的不伤害原则，是指",
+    "options": [
+      {
+        "key": "A",
+        "text": "最大限度地降低对病人的伤害"
+      },
+      {
+        "key": "B",
+        "text": "最大限度地消除对病人的心理伤害"
+      },
+      {
+        "key": "C",
+        "text": "最大限度地消除对病人的躯体伤害"
+      },
+      {
+        "key": "D",
+        "text": "消除对病人的任何身心伤害"
+      },
+      {
+        "key": "E",
+        "text": "避免对病人的任何身心伤害"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-019",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "19",
+    "display_order": 81,
+    "group_range": null,
+    "stem": "医学伦理学的公正原则，是指",
+    "options": [
+      {
+        "key": "A",
+        "text": "不同病人给予不同对待"
+      },
+      {
+        "key": "B",
+        "text": "不同的经济状况给予不同对待"
+      },
+      {
+        "key": "C",
+        "text": "不同的需要给予同样的对待"
+      },
+      {
+        "key": "D",
+        "text": "同样需要的人给予同样的对待"
+      },
+      {
+        "key": "E",
+        "text": "不同的病情给予同样的对待"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-020",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "20",
+    "display_order": 82,
+    "group_range": null,
+    "stem": "医学伦理学的有利原则是指",
+    "options": [
+      {
+        "key": "A",
+        "text": "只要对病人有利的行为就是道德的"
+      },
+      {
+        "key": "B",
+        "text": "只要对他人、对社会有利的行为就是道德的"
+      },
+      {
+        "key": "C",
+        "text": "只要对医学发展有利的行为就是道德的"
+      },
+      {
+        "key": "D",
+        "text": "不仅对病人有利，还对他人和社会有利的行为才是道德的"
+      },
+      {
+        "key": "E",
+        "text": "不仅对他人有利，还对社会有利的行为才是道德的"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-021",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "21",
+    "display_order": 83,
+    "group_range": null,
+    "stem": "医学实践中落实医学伦理学的尊重原则，表现为",
+    "options": [
+      {
+        "key": "A",
+        "text": "医务人员的医疗权应让位于病人的自主选择权"
+      },
+      {
+        "key": "B",
+        "text": "只要是病人的自主选择，医务人员就得尊重并落实"
+      },
+      {
+        "key": "C",
+        "text": "对于无法行使自主选择权的病人，医务人员可以代替其选择"
+      },
+      {
+        "key": "D",
+        "text": "对于无法行使自主选择权的病人，医院和医生经过充分协商，可以代替病人选择"
+      },
+      {
+        "key": "E",
+        "text": "尊重病人的自主选择权，也包括允许家属代其行使"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-022",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "22",
+    "display_order": 84,
+    "group_range": null,
+    "stem": "现实中的医疗伤害现象，依据其与医方主观意愿的关系，可以分为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "有意伤害、可知伤害、可控伤害和责任伤害"
+      },
+      {
+        "key": "B",
+        "text": "有意伤害、无意伤害、可控伤害和责任伤害"
+      },
+      {
+        "key": "C",
+        "text": "有意伤害、可知伤害、可预见伤害和责任伤害"
+      },
+      {
+        "key": "D",
+        "text": "有意伤害、可知伤害、可控伤害和不可控伤害"
+      },
+      {
+        "key": "E",
+        "text": "有意伤害、无意伤害、可控伤害和不可控伤害"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-023",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "23",
+    "display_order": 85,
+    "group_range": null,
+    "stem": "1948年，世界医学大会以希波克拉底誓词为蓝本，形成了著名的",
+    "options": [
+      {
+        "key": "A",
+        "text": "《医学伦理学日内瓦协议法》"
+      },
+      {
+        "key": "B",
+        "text": "《日内瓦宣言》"
+      },
+      {
+        "key": "C",
+        "text": "《赫尔辛基宣言》"
+      },
+      {
+        "key": "D",
+        "text": "《悉尼宣言》"
+      },
+      {
+        "key": "E",
+        "text": "《阿拉木图宣言》"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-024",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "24",
+    "display_order": 86,
+    "group_range": null,
+    "stem": "医德情感中最起码、最基本的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "关心"
+      },
+      {
+        "key": "B",
+        "text": "爱心"
+      },
+      {
+        "key": "C",
+        "text": "同情心"
+      },
+      {
+        "key": "D",
+        "text": "责任心"
+      },
+      {
+        "key": "E",
+        "text": "事业心"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-025",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "25",
+    "display_order": 87,
+    "group_range": null,
+    "stem": "医学伦理学的具体原则，不包括",
+    "options": [
+      {
+        "key": "A",
+        "text": "有利"
+      },
+      {
+        "key": "B",
+        "text": "无伤"
+      },
+      {
+        "key": "C",
+        "text": "知情"
+      },
+      {
+        "key": "D",
+        "text": "自主"
+      },
+      {
+        "key": "E",
+        "text": "公正"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-026",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "26",
+    "display_order": 88,
+    "group_range": null,
+    "stem": "医学伦理学中的最优化原则是指",
+    "options": [
+      {
+        "key": "A",
+        "text": "诊治手段最佳、相对安全，患者痛苦最少，经济耗费少"
+      },
+      {
+        "key": "B",
+        "text": "诊治手段在当时的医学科学水平上来看是最佳的，相对安全、副作用小，痛苦最少"
+      },
+      {
+        "key": "C",
+        "text": "诊治手段在当时的医学科学水平上看来是最佳的，相对安全，损伤最小，痛苦少，经济耗费少"
+      },
+      {
+        "key": "D",
+        "text": "诊治手段在当时的医学科学水平上来看是最佳的，绝对安全，损伤小，痛苦少，经济耗费少"
+      },
+      {
+        "key": "E",
+        "text": "以上都不全面"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-027",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "27",
+    "display_order": 89,
+    "group_range": null,
+    "stem": "良心是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医务人员内心世界的自然流露"
+      },
+      {
+        "key": "B",
+        "text": "医务人员对他人行为的批判"
+      },
+      {
+        "key": "C",
+        "text": "医务人员对他人和社会所负的道德责任"
+      },
+      {
+        "key": "D",
+        "text": "医务人员对自己所负道德责任的自我感知能力"
+      },
+      {
+        "key": "E",
+        "text": "医务人员对他人所负道德责任的评价能力"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-028",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "28",
+    "display_order": 90,
+    "group_range": null,
+    "stem": "道德义务的特点是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医务人员对服务对象的一种承诺"
+      },
+      {
+        "key": "B",
+        "text": "不以获得权力为前提"
+      },
+      {
+        "key": "C",
+        "text": "以提高医疗质量为目的"
+      },
+      {
+        "key": "D",
+        "text": "以规章制度为保障"
+      },
+      {
+        "key": "E",
+        "text": "以法律规范为保障"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-029",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "29",
+    "display_order": 91,
+    "group_range": null,
+    "stem": "医德良心对每个医务人员有",
+    "options": [
+      {
+        "key": "A",
+        "text": "教育作用"
+      },
+      {
+        "key": "B",
+        "text": "反省作用"
+      },
+      {
+        "key": "C",
+        "text": "评价作用"
+      },
+      {
+        "key": "D",
+        "text": "动力作用"
+      },
+      {
+        "key": "E",
+        "text": "激励作用"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-030",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "30",
+    "display_order": 92,
+    "group_range": null,
+    "stem": "良心在医务人员的行为过程中具有",
+    "options": [
+      {
+        "key": "A",
+        "text": "选择检查作用、监督调整作用、评价总结作用"
+      },
+      {
+        "key": "B",
+        "text": "检查监督作用、调整改进作用、反省总结作用"
+      },
+      {
+        "key": "C",
+        "text": "选择检查作用、监督调整作用、反省教育作用"
+      },
+      {
+        "key": "D",
+        "text": "选择检查作用、调整改进作用、评价总结作用"
+      },
+      {
+        "key": "E",
+        "text": "检查监督作用、调整改进作用、反省教育作用"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-031",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "31",
+    "display_order": 93,
+    "group_range": null,
+    "stem": "医疗实践中，审慎至关重要，它并不意味着",
+    "options": [
+      {
+        "key": "A",
+        "text": "周密细致"
+      },
+      {
+        "key": "B",
+        "text": "行为之前的周密思考"
+      },
+      {
+        "key": "C",
+        "text": "行为过程中的谨慎认真"
+      },
+      {
+        "key": "D",
+        "text": "反复思考，不能做出果断的决定"
+      },
+      {
+        "key": "E",
+        "text": "医务人员的高度责任心和事业心"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-032",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "32",
+    "display_order": 94,
+    "group_range": null,
+    "stem": "医务人员应当对病人保密的信息不包括",
+    "options": [
+      {
+        "key": "A",
+        "text": "病人的危重病情"
+      },
+      {
+        "key": "B",
+        "text": "医务人员之间的隔阂"
+      },
+      {
+        "key": "C",
+        "text": "胎儿的性别"
+      },
+      {
+        "key": "D",
+        "text": "医务人员的家庭住址"
+      },
+      {
+        "key": "E",
+        "text": "病人的隐私"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-033",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "33",
+    "display_order": 95,
+    "group_range": null,
+    "stem": "医务人员应当保守的医疗秘密是",
+    "options": [
+      {
+        "key": "A",
+        "text": "病人的病情"
+      },
+      {
+        "key": "B",
+        "text": "病人的医疗方案"
+      },
+      {
+        "key": "C",
+        "text": "病人的性别"
+      },
+      {
+        "key": "D",
+        "text": "医务人员的家庭住址"
+      },
+      {
+        "key": "E",
+        "text": "医院及医务人员的特色、特长"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-034",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "34",
+    "display_order": 96,
+    "group_range": null,
+    "stem": "关于医务人员相互之间的医德规范是",
+    "options": [
+      {
+        "key": "A",
+        "text": "救死扶伤，人道待患"
+      },
+      {
+        "key": "B",
+        "text": "尊重病人，一视同仁"
+      },
+      {
+        "key": "C",
+        "text": "文明礼貌，关心体贴"
+      },
+      {
+        "key": "D",
+        "text": "谨言慎行，保守医密"
+      },
+      {
+        "key": "E",
+        "text": "互学互尊，团结协作"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-035",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "35",
+    "display_order": 97,
+    "group_range": null,
+    "stem": "关于医务人员自我的医德规范是",
+    "options": [
+      {
+        "key": "A",
+        "text": "救死扶伤，人道待患"
+      },
+      {
+        "key": "B",
+        "text": "尊重病人，一视同仁"
+      },
+      {
+        "key": "C",
+        "text": "文明礼貌，关心体贴"
+      },
+      {
+        "key": "D",
+        "text": "谨言慎行，保守医密"
+      },
+      {
+        "key": "E",
+        "text": "严谨求实，奋发进取"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-036",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "36",
+    "display_order": 98,
+    "group_range": null,
+    "stem": "我国医德基本原则的内容是",
+    "options": [
+      {
+        "key": "A",
+        "text": "救死扶伤，防病治病"
+      },
+      {
+        "key": "B",
+        "text": "不伤害原则"
+      },
+      {
+        "key": "C",
+        "text": "有利原则"
+      },
+      {
+        "key": "D",
+        "text": "公正原则"
+      },
+      {
+        "key": "E",
+        "text": "尊重原则"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-037",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "37",
+    "display_order": 99,
+    "group_range": null,
+    "stem": "各项中不属于医疗秘密的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "患者及其家庭隐私"
+      },
+      {
+        "key": "B",
+        "text": "医师及其家庭隐私"
+      },
+      {
+        "key": "C",
+        "text": "患者独特的体征畸形"
+      },
+      {
+        "key": "D",
+        "text": "患者不愿让别人知晓的疾病"
+      },
+      {
+        "key": "E",
+        "text": "关于患者的不良诊断和预后"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-038",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "38",
+    "display_order": 100,
+    "group_range": null,
+    "stem": "现代医学实践中医患关系的常用模式是",
+    "options": [
+      {
+        "key": "A",
+        "text": "主动—被动型"
+      },
+      {
+        "key": "B",
+        "text": "相互协作型"
+      },
+      {
+        "key": "C",
+        "text": "指导—合作型"
+      },
+      {
+        "key": "D",
+        "text": "指导—参考型"
+      },
+      {
+        "key": "E",
+        "text": "共同参与型"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-039",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "39",
+    "display_order": 101,
+    "group_range": null,
+    "stem": "病人权利受到关注的社会背景是",
+    "options": [
+      {
+        "key": "A",
+        "text": "人们的生活水平提高"
+      },
+      {
+        "key": "B",
+        "text": "人们的文化水平提高"
+      },
+      {
+        "key": "C",
+        "text": "医患间医学知识的差距逐渐缩小"
+      },
+      {
+        "key": "D",
+        "text": "病人的医疗消费能力不足"
+      },
+      {
+        "key": "E",
+        "text": "病人的医疗消费水平提高"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-040",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "40",
+    "display_order": 102,
+    "group_range": null,
+    "stem": "在医疗过程中，医生的医疗权应该",
+    "options": [
+      {
+        "key": "A",
+        "text": "服从医院的发展"
+      },
+      {
+        "key": "B",
+        "text": "服从病人的权利"
+      },
+      {
+        "key": "C",
+        "text": "服从社会公益"
+      },
+      {
+        "key": "D",
+        "text": "服从医院行政领导"
+      },
+      {
+        "key": "E",
+        "text": "服从家属的意愿"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-041",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "41",
+    "display_order": 103,
+    "group_range": null,
+    "stem": "尊重患者的疾病认知权需要一定的前提，即",
+    "options": [
+      {
+        "key": "A",
+        "text": "不影响医务人员的合作"
+      },
+      {
+        "key": "B",
+        "text": "不让病人难过"
+      },
+      {
+        "key": "C",
+        "text": "不影响医患关系的确立"
+      },
+      {
+        "key": "D",
+        "text": "不影响医生治疗方案的选择"
+      },
+      {
+        "key": "E",
+        "text": "不加重患者的心理负担和影响治疗效果"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-042",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "42",
+    "display_order": 104,
+    "group_range": null,
+    "stem": "当前的医疗实践中，医生责任强调的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "对患者负责和对集体负责的统一"
+      },
+      {
+        "key": "B",
+        "text": "对集体负责和对社会负责的统一"
+      },
+      {
+        "key": "C",
+        "text": "对医院的经济效益负责和对病人负责的统一"
+      },
+      {
+        "key": "D",
+        "text": "对患者负责和对社会负责的统一"
+      },
+      {
+        "key": "E",
+        "text": "对病人负责和对个人经济收入负责的统一"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-043",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "43",
+    "display_order": 105,
+    "group_range": null,
+    "stem": "患者的痛苦包括：",
+    "options": [
+      {
+        "key": "A",
+        "text": "经济性和生理性"
+      },
+      {
+        "key": "B",
+        "text": "躯体性和社会性"
+      },
+      {
+        "key": "C",
+        "text": "社会性和心理性"
+      },
+      {
+        "key": "D",
+        "text": "躯体性和精神性"
+      },
+      {
+        "key": "E",
+        "text": "躯体性和行为性"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-044",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "44",
+    "display_order": 106,
+    "group_range": null,
+    "stem": "萨斯和荷伦德等提出的医患关系基本模式是",
+    "options": [
+      {
+        "key": "A",
+        "text": "主动—被动型，共同参与型，父权主义型"
+      },
+      {
+        "key": "B",
+        "text": "指导—合作型，平等参与型，母权主义型"
+      },
+      {
+        "key": "C",
+        "text": "指导—合作型，共同参与型，技术型"
+      },
+      {
+        "key": "D",
+        "text": "主动—被动型，指导—合作型，共同参与型"
+      },
+      {
+        "key": "E",
+        "text": "主动—被动型，指导—配合型，父权主义型"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-045",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "45",
+    "display_order": 107,
+    "group_range": null,
+    "stem": "医疗活动中最基本、最重要的人际关系是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医患主义"
+      },
+      {
+        "key": "B",
+        "text": "医疗团体与社会的关系"
+      },
+      {
+        "key": "C",
+        "text": "医护关系"
+      },
+      {
+        "key": "D",
+        "text": "医际关系"
+      },
+      {
+        "key": "E",
+        "text": "护患关系"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-046",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "46",
+    "display_order": 108,
+    "group_range": null,
+    "stem": "关于医患关系是契约关系，不正确的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医患关系是民事法律关系"
+      },
+      {
+        "key": "B",
+        "text": "医患关系的主体是医疗机构和就诊的病人"
+      },
+      {
+        "key": "C",
+        "text": "医患关系的内容是病人和医疗机构之间的权利与义务关系"
+      },
+      {
+        "key": "D",
+        "text": "医患关系是不平等的关系"
+      },
+      {
+        "key": "E",
+        "text": "医患关系是自愿的结成的关系"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-047",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "47",
+    "display_order": 109,
+    "group_range": null,
+    "stem": "古代医患关系的主要特点是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医患关系直接性、亲密性、主动性"
+      },
+      {
+        "key": "B",
+        "text": "医患关系间接性、持久性、主动性"
+      },
+      {
+        "key": "C",
+        "text": "医患关系直接性、持久性、稳定性"
+      },
+      {
+        "key": "D",
+        "text": "医患关系直接性、持久性、主动性"
+      },
+      {
+        "key": "E",
+        "text": "医患关系直接性、稳定性、整体性"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-048",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "48",
+    "display_order": 110,
+    "group_range": null,
+    "stem": "病人的道德义务有",
+    "options": [
+      {
+        "key": "A",
+        "text": "保持健康和恢复健康的责任"
+      },
+      {
+        "key": "B",
+        "text": "服从医生制定的医疗方案"
+      },
+      {
+        "key": "C",
+        "text": "帮助医务人员工作"
+      },
+      {
+        "key": "D",
+        "text": "服从医院的行政领导"
+      },
+      {
+        "key": "E",
+        "text": "要求家属帮助护士工作"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-049",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "49",
+    "display_order": 111,
+    "group_range": null,
+    "stem": "医患关系出现物化趋势的最主要原因是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医学高技术手段的大量应用"
+      },
+      {
+        "key": "B",
+        "text": "医院分科越来越细，医生日益专科化"
+      },
+      {
+        "key": "C",
+        "text": "医生工作量加大"
+      },
+      {
+        "key": "D",
+        "text": "患者对医生的信任感降低"
+      },
+      {
+        "key": "E",
+        "text": "患者过多依赖医学高技术的检测手段"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-050",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "50",
+    "display_order": 112,
+    "group_range": null,
+    "stem": "医患关系是契约关系，表明",
+    "options": [
+      {
+        "key": "A",
+        "text": "医患关系不是民事法律关系"
+      },
+      {
+        "key": "B",
+        "text": "医患之间是平等的"
+      },
+      {
+        "key": "C",
+        "text": "医患关系的主体是来就诊的病人"
+      },
+      {
+        "key": "D",
+        "text": "医患关系是病人出于无奈与医务人员及医疗机构结成的"
+      },
+      {
+        "key": "E",
+        "text": "医患关系的客体是社会"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-051",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "51",
+    "display_order": 113,
+    "group_range": null,
+    "stem": "医患关系的性质是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医患关系是一般的契约关系"
+      },
+      {
+        "key": "B",
+        "text": "医患关系是纯粹的信托关系"
+      },
+      {
+        "key": "C",
+        "text": "医患关系是在信托关系基础上的契约关系"
+      },
+      {
+        "key": "D",
+        "text": "医患关系是信托关系就不是契约关系"
+      },
+      {
+        "key": "E",
+        "text": "医患关系是契约关系就不是信托关系"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-052",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "52",
+    "display_order": 114,
+    "group_range": null,
+    "stem": "共同参与型和指导合作型医患关系日益成为占主导地位的医患模式，说明医患关系呈",
+    "options": [
+      {
+        "key": "A",
+        "text": "民主化趋势"
+      },
+      {
+        "key": "B",
+        "text": "物化趋势"
+      },
+      {
+        "key": "C",
+        "text": "法制化趋势"
+      },
+      {
+        "key": "D",
+        "text": "分化趋势"
+      },
+      {
+        "key": "E",
+        "text": "商品化趋势"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-053",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "53",
+    "display_order": 115,
+    "group_range": null,
+    "stem": "医生诊断治疗越来越依赖于检查、化验所得的指标和数据，医生和病人的直接交流也因此减少，反映出医患关系出现",
+    "options": [
+      {
+        "key": "A",
+        "text": "民主化趋势"
+      },
+      {
+        "key": "B",
+        "text": "物化趋势"
+      },
+      {
+        "key": "C",
+        "text": "法制化趋势"
+      },
+      {
+        "key": "D",
+        "text": "分化趋势"
+      },
+      {
+        "key": "E",
+        "text": "商品化趋势"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-054",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "54",
+    "display_order": 116,
+    "group_range": null,
+    "stem": "共同参与型的医患关系",
+    "options": [
+      {
+        "key": "A",
+        "text": "医生有绝对的权威，患者无条件的配合医生"
+      },
+      {
+        "key": "B",
+        "text": "医生相对主动，患者相对被动"
+      },
+      {
+        "key": "C",
+        "text": "医生和病人共同商讨病案并决定治疗方案"
+      },
+      {
+        "key": "D",
+        "text": "病人的主动性大于医生的主动性"
+      },
+      {
+        "key": "E",
+        "text": "现实中不存在"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-055",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "55",
+    "display_order": 117,
+    "group_range": null,
+    "stem": "下列各项中不属于病人自主权范围的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "选择医疗方案"
+      },
+      {
+        "key": "B",
+        "text": "选择医生"
+      },
+      {
+        "key": "C",
+        "text": "同意或拒绝医生的规劝"
+      },
+      {
+        "key": "D",
+        "text": "违背社会利益、他人利益的选择"
+      },
+      {
+        "key": "E",
+        "text": "同意或拒绝医学实验"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-056",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "56",
+    "display_order": 118,
+    "group_range": null,
+    "stem": "当病人对医生所实施的诊治手段有质疑时，医生必须详细介绍，在病人愿意时才能继续进行，这属于患者的",
+    "options": [
+      {
+        "key": "A",
+        "text": "平等医疗权"
+      },
+      {
+        "key": "B",
+        "text": "疾病认知权"
+      },
+      {
+        "key": "C",
+        "text": "知情同意权"
+      },
+      {
+        "key": "D",
+        "text": "社会责任权"
+      },
+      {
+        "key": "E",
+        "text": "保护隐私权"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-057",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "57",
+    "display_order": 119,
+    "group_range": null,
+    "stem": "正确处理医际关系的原则是",
+    "options": [
+      {
+        "key": "A",
+        "text": "根据职务、职称不同，区别对待"
+      },
+      {
+        "key": "B",
+        "text": "根据学历、职务的高低，分配发展机会"
+      },
+      {
+        "key": "C",
+        "text": "彼此信任、互相协作和监督"
+      },
+      {
+        "key": "D",
+        "text": "互相尊重，“井水不犯河水”"
+      },
+      {
+        "key": "E",
+        "text": "互相尊重，坚持独立，注重自我发展"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-058",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "58",
+    "display_order": 120,
+    "group_range": null,
+    "stem": "既有助于调动上级医务人员的积极性，又有利于下级医务人员迅速成长的医际关系模式",
+    "options": [
+      {
+        "key": "A",
+        "text": "主从型"
+      },
+      {
+        "key": "B",
+        "text": "指导—被指导型"
+      },
+      {
+        "key": "C",
+        "text": "并列—互补型"
+      },
+      {
+        "key": "D",
+        "text": "相互竞争型"
+      },
+      {
+        "key": "E",
+        "text": "相互参与型"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-059",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "59",
+    "display_order": 121,
+    "group_range": null,
+    "stem": "医院中临床医师与医技科室医务人员之间的关系模式应该是",
+    "options": [
+      {
+        "key": "A",
+        "text": "主从型"
+      },
+      {
+        "key": "B",
+        "text": "指导—被指导型"
+      },
+      {
+        "key": "C",
+        "text": "并列—互补型"
+      },
+      {
+        "key": "D",
+        "text": "相互竞争型"
+      },
+      {
+        "key": "E",
+        "text": "指导合作型"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-060",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "60",
+    "display_order": 122,
+    "group_range": null,
+    "stem": "医护之间的关系模式应该是",
+    "options": [
+      {
+        "key": "A",
+        "text": "主从型"
+      },
+      {
+        "key": "B",
+        "text": "指导—被指导型"
+      },
+      {
+        "key": "C",
+        "text": "并列—互补型"
+      },
+      {
+        "key": "D",
+        "text": "相互竞争型"
+      },
+      {
+        "key": "E",
+        "text": "指导合作型"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-061",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "61",
+    "display_order": 123,
+    "group_range": null,
+    "stem": "医际关系与医患关系",
+    "options": [
+      {
+        "key": "A",
+        "text": "没有联系"
+      },
+      {
+        "key": "B",
+        "text": "有联系，但关系不大"
+      },
+      {
+        "key": "C",
+        "text": "有联系，和谐的医患关系以良好的医际关系为前提"
+      },
+      {
+        "key": "D",
+        "text": "有联系，和谐的医患关系能促进良好医际关系的确立"
+      },
+      {
+        "key": "E",
+        "text": "有联系，二者都是医院经济效益的源泉"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-062",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "62",
+    "display_order": 124,
+    "group_range": null,
+    "stem": "下列对医际关系的伦理意义描述不准确的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "有利于医学事业发展"
+      },
+      {
+        "key": "B",
+        "text": "有利于医务人员成才"
+      },
+      {
+        "key": "C",
+        "text": "有利于取得更高的经济收益"
+      },
+      {
+        "key": "D",
+        "text": "有利于医院集体力量的发挥"
+      },
+      {
+        "key": "E",
+        "text": "有利于建立和谐的医患关系"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-063",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "63",
+    "display_order": 125,
+    "group_range": null,
+    "stem": "狭义的医务人员之间的关系是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医师、护士、医技人员自身之间以及相互之间的关系"
+      },
+      {
+        "key": "B",
+        "text": "医师之间的关系"
+      },
+      {
+        "key": "C",
+        "text": "医务人员与后勤人员之间的关系"
+      },
+      {
+        "key": "D",
+        "text": "医师、护士、医务人员自身之间的关系"
+      },
+      {
+        "key": "E",
+        "text": "护士之间的关系"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-064",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "64",
+    "display_order": 126,
+    "group_range": null,
+    "stem": "广义的医务人员之间的关系是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医师、护士之间的关系"
+      },
+      {
+        "key": "B",
+        "text": "护士、医技人员之间的关系"
+      },
+      {
+        "key": "C",
+        "text": "医师、护士、医技人员自身之间的关系"
+      },
+      {
+        "key": "D",
+        "text": "医务人员之间、医务人员自身之间以及相互之间的关系"
+      },
+      {
+        "key": "E",
+        "text": "医务人员之间、医务人员与后勤、行政管理人员之间的关系"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-065",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "65",
+    "display_order": 127,
+    "group_range": null,
+    "stem": "正确处理医务人员之间关系的思想基础是",
+    "options": [
+      {
+        "key": "A",
+        "text": "共同维护病人利益和社会公益"
+      },
+      {
+        "key": "B",
+        "text": "彼此平等、互相尊重"
+      },
+      {
+        "key": "C",
+        "text": "彼此独立、互相支持和帮助"
+      },
+      {
+        "key": "D",
+        "text": "彼此信任、互相协作和监督"
+      },
+      {
+        "key": "E",
+        "text": "互相学习、共同提高和发挥优势"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-066",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "66",
+    "display_order": 128,
+    "group_range": null,
+    "stem": "下列处理医际关系的原则不正确的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "彼此平等、互相尊重"
+      },
+      {
+        "key": "B",
+        "text": "彼此独立、互相支持和帮助"
+      },
+      {
+        "key": "C",
+        "text": "彼此协作、力争最大经济收益"
+      },
+      {
+        "key": "D",
+        "text": "彼此信任、互相协作和监督"
+      },
+      {
+        "key": "E",
+        "text": "互相学习、共同提高和发挥优势"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-067",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "67",
+    "display_order": 129,
+    "group_range": null,
+    "stem": "医德修养的方法是",
+    "options": [
+      {
+        "key": "A",
+        "text": "积极参加医院的各种政治学习"
+      },
+      {
+        "key": "B",
+        "text": "让领导多督促自己"
+      },
+      {
+        "key": "C",
+        "text": "让同事多提醒自己"
+      },
+      {
+        "key": "D",
+        "text": "让病人多监督自己"
+      },
+      {
+        "key": "E",
+        "text": "追求慎独"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-068",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "68",
+    "display_order": 130,
+    "group_range": null,
+    "stem": "医务人员自觉遵守医德规范，将社会的医德规范要求内化为自己的医德品质的活动是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医德活动"
+      },
+      {
+        "key": "B",
+        "text": "医德修养"
+      },
+      {
+        "key": "C",
+        "text": "医德评价"
+      },
+      {
+        "key": "D",
+        "text": "医德教育"
+      },
+      {
+        "key": "E",
+        "text": ",医德决策"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-069",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "69",
+    "display_order": 131,
+    "group_range": null,
+    "stem": "人们对医疗行为进行道德价值判断是通过",
+    "options": [
+      {
+        "key": "A",
+        "text": "医德活动"
+      },
+      {
+        "key": "B",
+        "text": "医德教育"
+      },
+      {
+        "key": "C",
+        "text": "医德修养"
+      },
+      {
+        "key": "D",
+        "text": "医德评价"
+      },
+      {
+        "key": "E",
+        "text": "医德境界"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-070",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "70",
+    "display_order": 132,
+    "group_range": null,
+    "stem": "医务人员的医德修养的含义",
+    "options": [
+      {
+        "key": "A",
+        "text": "医德修养是指医务人员闭门思过，修身养性的过程"
+      },
+      {
+        "key": "B",
+        "text": "医德修养是指活到老、学到老的一种精神"
+      },
+      {
+        "key": "C",
+        "text": "医德修养是指在医德方面勤奋学习、认真实践和涵养锻炼所达到的一种医德品质"
+      },
+      {
+        "key": "D",
+        "text": "医德修养是指改造客观世界的同时认真改造主观世界"
+      },
+      {
+        "key": "E",
+        "text": "医德修养是指实践出真知，要认真参加社会实践"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-071",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "71",
+    "display_order": 133,
+    "group_range": null,
+    "stem": "医德评价的作用",
+    "options": [
+      {
+        "key": "A",
+        "text": "医德评价具有法律一样的约束作用"
+      },
+      {
+        "key": "B",
+        "text": "医德评价是医德教育效果的检验手段"
+      },
+      {
+        "key": "C",
+        "text": "医德评价是医务人员养成良好医德品质的重要手段"
+      },
+      {
+        "key": "D",
+        "text": "医德评价是将医德原则转化为医德品行的方法"
+      },
+      {
+        "key": "E",
+        "text": "医德评价对医疗的表象可以判断，对内在动机无法判断"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-072",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "72",
+    "display_order": 134,
+    "group_range": null,
+    "stem": "医德评价的医疗标准是",
+    "options": [
+      {
+        "key": "A",
+        "text": "有利于患者疾病的缓解、痊愈和生命的安全"
+      },
+      {
+        "key": "B",
+        "text": "有利于医学科学的发展，揭示人类生命的奥秘"
+      },
+      {
+        "key": "C",
+        "text": "有利于医疗人际关系的良性发展"
+      },
+      {
+        "key": "D",
+        "text": "有利于医患关系的良性发展"
+      },
+      {
+        "key": "E",
+        "text": "有利于人类生存环境的保护和改善"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-073",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "73",
+    "display_order": 135,
+    "group_range": null,
+    "stem": "在动机和效果不一致时，评判医疗卫生工作主观动机应坚持",
+    "options": [
+      {
+        "key": "A",
+        "text": "以客观效果为唯一依据的效果论"
+      },
+      {
+        "key": "B",
+        "text": "以主观意愿和为主要依据的动机论"
+      },
+      {
+        "key": "C",
+        "text": "以病人及家属的反映为依据的反映论"
+      },
+      {
+        "key": "D",
+        "text": "以医德原则及要求为依据的原则决定论"
+      },
+      {
+        "key": "E",
+        "text": "以深入分析整个医疗工作全过程为原则的全面分析论"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-074",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "74",
+    "display_order": 136,
+    "group_range": null,
+    "stem": "内心信念是",
+    "options": [
+      {
+        "key": "A",
+        "text": "人生下来就有的"
+      },
+      {
+        "key": "B",
+        "text": "自己“反思”的结果"
+      },
+      {
+        "key": "C",
+        "text": "一种“绝对精神”在个人身上的显现"
+      },
+      {
+        "key": "D",
+        "text": "发自内心的对事业对人生的深刻认识和坚定信念"
+      },
+      {
+        "key": "E",
+        "text": "内心认识的变化，是看不见摸不着的"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-075",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "75",
+    "display_order": 137,
+    "group_range": null,
+    "stem": "对医德修养意义的描述不正确的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "有助于医德教育的深化"
+      },
+      {
+        "key": "B",
+        "text": "有助于良好医德医风的形成"
+      },
+      {
+        "key": "C",
+        "text": "有助于良好医德品质的养成"
+      },
+      {
+        "key": "D",
+        "text": "有助于将医德要求转化为医务人员的内心信念"
+      },
+      {
+        "key": "E",
+        "text": "有助于医院管理的顺利进行"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-076",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "76",
+    "display_order": 138,
+    "group_range": null,
+    "stem": "在自己独处、无人监督的情况下，仍能按照医学道德规范的要求行事是指",
+    "options": [
+      {
+        "key": "A",
+        "text": "内省"
+      },
+      {
+        "key": "B",
+        "text": "反省"
+      },
+      {
+        "key": "C",
+        "text": "省悟"
+      },
+      {
+        "key": "D",
+        "text": "慎独"
+      },
+      {
+        "key": "E",
+        "text": "自律"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-077",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "77",
+    "display_order": 139,
+    "group_range": null,
+    "stem": "医疗行为动机和效果之间的关系，正确的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "相同的医疗行为动机，必然导致相同的医疗行为效果"
+      },
+      {
+        "key": "B",
+        "text": "好的医疗行为动机，一定会导致好的医疗行为效果"
+      },
+      {
+        "key": "C",
+        "text": "好的医疗行为动机，可能导致不好的医疗效果"
+      },
+      {
+        "key": "D",
+        "text": "在行为评价时，注重行为的动机"
+      },
+      {
+        "key": "E",
+        "text": "在品德评价时，注重行为的效果"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-078",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "78",
+    "display_order": 140,
+    "group_range": null,
+    "stem": "对医务人员在医德修养方面提倡“慎独”，不正确的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "“慎独”是古代儒家用语，是封建社会道德特有的范畴"
+      },
+      {
+        "key": "B",
+        "text": "“慎独”是道德修养的方法"
+      },
+      {
+        "key": "C",
+        "text": "“慎独”是指个人在独处无人监督时，仍能坚持道德原则和道德信念"
+      },
+      {
+        "key": "D",
+        "text": "“慎独”是中性名词，在今天使用它可以有崭新的内容和含义"
+      },
+      {
+        "key": "E",
+        "text": "医德修养是有层次的，提倡“慎独”，是希望医务人员的医德修养达到更高的境界"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-079",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "79",
+    "display_order": 141,
+    "group_range": null,
+    "stem": "不属于医学道德修养方法的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "结合社会实践"
+      },
+      {
+        "key": "B",
+        "text": "重在自觉"
+      },
+      {
+        "key": "C",
+        "text": "追求“慎独”境界"
+      },
+      {
+        "key": "D",
+        "text": "持之以恒"
+      },
+      {
+        "key": "E",
+        "text": "经常反躬内省，不耻下问"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-080",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "80",
+    "display_order": 142,
+    "group_range": null,
+    "stem": "下列关于医疗行为目的和手段的认识不正确的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医疗行为目的合乎道德是医疗行为合乎道德的必要条件"
+      },
+      {
+        "key": "B",
+        "text": "道德的医疗行为有时需要“必要伤害”的手段，因此，伤害性手段是医学必需的"
+      },
+      {
+        "key": "C",
+        "text": "医务人员选择的医疗手段应该经过医学实践证明是最佳的"
+      },
+      {
+        "key": "D",
+        "text": "医务人员选择医疗手段应该实事求是"
+      },
+      {
+        "key": "E",
+        "text": "总体上注意行为目的和手段的统一"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-081",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "81",
+    "display_order": 143,
+    "group_range": null,
+    "stem": "为了达到目的和手段的一致，必须遵循的原则不包括",
+    "options": [
+      {
+        "key": "A",
+        "text": "有效性原则"
+      },
+      {
+        "key": "B",
+        "text": "优化原则"
+      },
+      {
+        "key": "C",
+        "text": "一致性原则"
+      },
+      {
+        "key": "D",
+        "text": "社会性原则"
+      },
+      {
+        "key": "E",
+        "text": "医学原则"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-082",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "82",
+    "display_order": 144,
+    "group_range": null,
+    "stem": "传统习俗的作用是",
+    "options": [
+      {
+        "key": "A",
+        "text": "约束"
+      },
+      {
+        "key": "B",
+        "text": "调整"
+      },
+      {
+        "key": "C",
+        "text": "疏导"
+      },
+      {
+        "key": "D",
+        "text": "规范"
+      },
+      {
+        "key": "E",
+        "text": "指导"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-083",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "83",
+    "display_order": 145,
+    "group_range": null,
+    "stem": "社会舆论的作用，不包括",
+    "options": [
+      {
+        "key": "A",
+        "text": "约束"
+      },
+      {
+        "key": "B",
+        "text": "调整"
+      },
+      {
+        "key": "C",
+        "text": "疏导"
+      },
+      {
+        "key": "D",
+        "text": "规范"
+      },
+      {
+        "key": "E",
+        "text": "指导"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-084",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "84",
+    "display_order": 146,
+    "group_range": null,
+    "stem": "内心信念的作用是",
+    "options": [
+      {
+        "key": "A",
+        "text": "行为之前的预测作用，行为之中的调整作用，行为之后的审视、评判和自我校正"
+      },
+      {
+        "key": "B",
+        "text": "行为之前的预测作用，行为之中的监控作用，行为之后的审视、评判和自我校正"
+      },
+      {
+        "key": "C",
+        "text": "行为之前的选择作用，行为之中的监控作用，行为之后的审视、评判和自我校正"
+      },
+      {
+        "key": "D",
+        "text": "行为之前的预测作用，行为之中的监督作用，行为之后的评价、评判和自我校正"
+      },
+      {
+        "key": "E",
+        "text": "行为之前的选择作用，行为之中的调整作用，行为之后的评价、评判和自我校正"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-085",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "85",
+    "display_order": 147,
+    "group_range": null,
+    "stem": "人体实验的道德原则中维护受试者利益指",
+    "options": [
+      {
+        "key": "A",
+        "text": "人体实验的危险应该是很小的"
+      },
+      {
+        "key": "B",
+        "text": "人体实验的危险不能超过实验带来的利益"
+      },
+      {
+        "key": "C",
+        "text": "人体实验应该是没有风险的"
+      },
+      {
+        "key": "D",
+        "text": "人体实验应该以不损害人们的健康为前提"
+      },
+      {
+        "key": "E",
+        "text": "人体实验应该预测到所有的风险和预测的价值"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-086",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "86",
+    "display_order": 148,
+    "group_range": null,
+    "stem": "人体实验应该得到受试者完全知情同意、并在没有任何压力和自愿的状态下进行这一原则最早出自",
+    "options": [
+      {
+        "key": "A",
+        "text": "1949年《医学伦理学日内瓦协议》"
+      },
+      {
+        "key": "B",
+        "text": "1964年世界医学会《赫尔辛基宣言》"
+      },
+      {
+        "key": "C",
+        "text": "1946年《纽伦堡法典》"
+      },
+      {
+        "key": "D",
+        "text": "1968年世界医学会《悉尼宣言》"
+      },
+      {
+        "key": "E",
+        "text": "1975年世界医学会《东京宣言》"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-087",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "87",
+    "display_order": 149,
+    "group_range": null,
+    "stem": "人体试验",
+    "options": [
+      {
+        "key": "A",
+        "text": "只要医学研究需要就可进行"
+      },
+      {
+        "key": "B",
+        "text": "只要经过大量、可靠的动物试验后就可进行"
+      },
+      {
+        "key": "C",
+        "text": "只要课题组论证充分就可进行"
+      },
+      {
+        "key": "D",
+        "text": "只要在专家组的监督下就可进行"
+      },
+      {
+        "key": "E",
+        "text": "只要课题组上报完整、严谨的报告，经专家组及上级主管部门经规定程序审批后就可进行"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-088",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "88",
+    "display_order": 150,
+    "group_range": null,
+    "stem": "在人体实验中使用对照组、安慰剂和双盲法",
+    "options": [
+      {
+        "key": "A",
+        "text": "是人体试验的重要方法"
+      },
+      {
+        "key": "B",
+        "text": "是对病人的一种欺骗"
+      },
+      {
+        "key": "C",
+        "text": "是违背人道主义原则的"
+      },
+      {
+        "key": "D",
+        "text": "是违背知情同意原则的"
+      },
+      {
+        "key": "E",
+        "text": "会损害受试者利益"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-089",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "89",
+    "display_order": 151,
+    "group_range": null,
+    "stem": "人体实验的道德原则，不包括",
+    "options": [
+      {
+        "key": "A",
+        "text": "有利于医学和社会发展"
+      },
+      {
+        "key": "B",
+        "text": "必须实事求是"
+      },
+      {
+        "key": "C",
+        "text": "维护受试者利益"
+      },
+      {
+        "key": "D",
+        "text": "严谨的科学态度"
+      },
+      {
+        "key": "E",
+        "text": "受试者知情同意"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-090",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "90",
+    "display_order": 152,
+    "group_range": null,
+    "stem": "1946年诞生的人体实验的医学伦理文件是",
+    "options": [
+      {
+        "key": "A",
+        "text": "《赫尔辛基宣言》"
+      },
+      {
+        "key": "B",
+        "text": "《悉尼宣言》"
+      },
+      {
+        "key": "C",
+        "text": "《日内瓦协议法》"
+      },
+      {
+        "key": "D",
+        "text": "《阿拉木图宣言》"
+      },
+      {
+        "key": "E",
+        "text": "《纽伦堡法典》"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-091",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "91",
+    "display_order": 153,
+    "group_range": null,
+    "stem": "1964年世界医学大会颁布、又经过多次修订的关于医学实验的医学伦理文件是",
+    "options": [
+      {
+        "key": "A",
+        "text": "《赫尔辛基宣言》"
+      },
+      {
+        "key": "B",
+        "text": "《悉尼宣言》"
+      },
+      {
+        "key": "C",
+        "text": "《日内瓦协议法》"
+      },
+      {
+        "key": "D",
+        "text": "《纽伦堡法典》"
+      },
+      {
+        "key": "E",
+        "text": "《阿拉木图宣言》"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-092",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "92",
+    "display_order": 154,
+    "group_range": null,
+    "stem": "在人体实验中下列做法合乎伦理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "受试者有权知道自己是试验组还是对照组"
+      },
+      {
+        "key": "B",
+        "text": "受试者有权获知有关实验目的、性质、方法、预期好处、潜在危险等的详细信息"
+      },
+      {
+        "key": "C",
+        "text": "试验者必须引导病人及其家属知情同意"
+      },
+      {
+        "key": "D",
+        "text": "受试者只要参加实验，就不得退出"
+      },
+      {
+        "key": "E",
+        "text": "以无行为能力的人作为受试者，不需要贯彻知情同意原则"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-093",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "93",
+    "display_order": 155,
+    "group_range": null,
+    "stem": "在人体实验中下列做法不合乎伦理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "应特别关照弱势人群的权益"
+      },
+      {
+        "key": "B",
+        "text": "受试者可以选择退出试验，但退出后不得要求研究者对其有关情况保密资料"
+      },
+      {
+        "key": "C",
+        "text": "如果受试者承担的风险超过所获收益，就不应该进行试验"
+      },
+      {
+        "key": "D",
+        "text": "必须首先对受试者的收益、风险和负担进行评估"
+      },
+      {
+        "key": "E",
+        "text": "病人作为受试者退出人体试验后，其疾病的治疗不应受到影响"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-094",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "94",
+    "display_order": 156,
+    "group_range": null,
+    "stem": "在人体实验中下列做法不合乎伦理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "参加试验者意外受到伤害，有权获得相当于损失大小的赔偿"
+      },
+      {
+        "key": "B",
+        "text": "研究资料在正式发表之前要求保密，以保护研究者的科学研究利益"
+      },
+      {
+        "key": "C",
+        "text": "研究者必须尊重病人的隐私权"
+      },
+      {
+        "key": "D",
+        "text": "因试验导致病人死亡或因试验加重病情导致病人死亡，研究者有过错的，死者家属有权获得赔偿"
+      },
+      {
+        "key": "E",
+        "text": "可预见的不良反应也应在赔偿之列"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-095",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "95",
+    "display_order": 157,
+    "group_range": null,
+    "stem": "在人体实验中下列做法不合乎伦理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "参加试验因意外损伤者有权获得公平的赔偿"
+      },
+      {
+        "key": "B",
+        "text": "死亡者家属有权获得赔偿"
+      },
+      {
+        "key": "C",
+        "text": "可预见的不良反应不在赔偿之列"
+      },
+      {
+        "key": "D",
+        "text": "研究者应将有关信息向伦理委员会提供以供审查，如果来不及报告，可以补审"
+      },
+      {
+        "key": "E",
+        "text": "试验进行中的有关信息需向伦理委员会报告"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-096",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "96",
+    "display_order": 158,
+    "group_range": null,
+    "stem": "由于伦理方面的原因，目前尚未在人类身上成为现实的辅助生殖技术是",
+    "options": [
+      {
+        "key": "A",
+        "text": "代孕技术"
+      },
+      {
+        "key": "B",
+        "text": "同源人工授精"
+      },
+      {
+        "key": "C",
+        "text": "异源人工授精"
+      },
+      {
+        "key": "D",
+        "text": "无性生殖"
+      },
+      {
+        "key": "E",
+        "text": "体外受精"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-097",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "97",
+    "display_order": 159,
+    "group_range": null,
+    "stem": "运用现代医学技术，不通过两性结合，而进行高等动物（包括人）生殖的技术是",
+    "options": [
+      {
+        "key": "A",
+        "text": "代孕技术"
+      },
+      {
+        "key": "B",
+        "text": "同源人工授精"
+      },
+      {
+        "key": "C",
+        "text": "异源人工授精"
+      },
+      {
+        "key": "D",
+        "text": "克隆技术"
+      },
+      {
+        "key": "E",
+        "text": "体外受精"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-098",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "98",
+    "display_order": 160,
+    "group_range": null,
+    "stem": "人类辅助生殖技术的目的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "赢利"
+      },
+      {
+        "key": "B",
+        "text": "演进性优生"
+      },
+      {
+        "key": "C",
+        "text": "有利于未婚男女生儿育女"
+      },
+      {
+        "key": "D",
+        "text": "治疗、补偿已婚夫妇的生育功能"
+      },
+      {
+        "key": "E",
+        "text": "控制人口数量"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-099",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "99",
+    "display_order": 161,
+    "group_range": null,
+    "stem": "人类辅助生殖技术的目的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "商业化"
+      },
+      {
+        "key": "B",
+        "text": "演进性优生"
+      },
+      {
+        "key": "C",
+        "text": "有利于未婚男女生儿育女"
+      },
+      {
+        "key": "D",
+        "text": "预防性优生"
+      },
+      {
+        "key": "E",
+        "text": "控制人口数量"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-100",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "100",
+    "display_order": 162,
+    "group_range": null,
+    "stem": "目前，我国禁止的生殖技术是",
+    "options": [
+      {
+        "key": "A",
+        "text": "人工授精"
+      },
+      {
+        "key": "B",
+        "text": "同源人工授精"
+      },
+      {
+        "key": "C",
+        "text": "异源人工授精"
+      },
+      {
+        "key": "D",
+        "text": "无性生殖"
+      },
+      {
+        "key": "E",
+        "text": "体外受精"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-101",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "101",
+    "display_order": 163,
+    "group_range": null,
+    "stem": "关于生殖技术，不合乎道德的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "只要受术者本人知情同意便可"
+      },
+      {
+        "key": "B",
+        "text": "所生子女与婚生子女权利平等"
+      },
+      {
+        "key": "C",
+        "text": "医疗机构和医务人员须对赠者和受者的有关信息保密"
+      },
+      {
+        "key": "D",
+        "text": "应该限制供精者和供卵者的捐献次数"
+      },
+      {
+        "key": "E",
+        "text": "医务人员不得对单身妇女实施辅助生育技术"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-102",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "102",
+    "display_order": 164,
+    "group_range": null,
+    "stem": "不属于生殖技术的伦理问题的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "谁应该是孩子的父母"
+      },
+      {
+        "key": "B",
+        "text": "影响后代的健康成长"
+      },
+      {
+        "key": "C",
+        "text": "导致人类伦理关系的混乱"
+      },
+      {
+        "key": "D",
+        "text": "影响人类基因的纯洁性"
+      },
+      {
+        "key": "E",
+        "text": "商品化问题"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-103",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "103",
+    "display_order": 165,
+    "group_range": null,
+    "stem": "反对精液或卵子商品化的理由不包括",
+    "options": [
+      {
+        "key": "A",
+        "text": "提供精液是一种人道行为，应该是无偿的"
+      },
+      {
+        "key": "B",
+        "text": "精子库为追求盈利会忽视精液质量"
+      },
+      {
+        "key": "C",
+        "text": "造成实质上的血亲通婚"
+      },
+      {
+        "key": "D",
+        "text": "精液商品化可促使人体组织器官的商品化"
+      },
+      {
+        "key": "E",
+        "text": "影响后代的健康成长"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-104",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "104",
+    "display_order": 166,
+    "group_range": null,
+    "stem": "生殖技术的合理使用必须遵循维护社会公益原则，其中规定同一供精者的精子最多只能",
+    "options": [
+      {
+        "key": "A",
+        "text": "提供给2名妇女受孕"
+      },
+      {
+        "key": "B",
+        "text": "提供给3名妇女受孕"
+      },
+      {
+        "key": "C",
+        "text": "提供给4名妇女受孕"
+      },
+      {
+        "key": "D",
+        "text": "提供给5名妇女受孕"
+      },
+      {
+        "key": "E",
+        "text": "提供给6名妇女受孕"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-105",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "105",
+    "display_order": 167,
+    "group_range": null,
+    "stem": "器官移植中，确定受者的首要原则是",
+    "options": [
+      {
+        "key": "A",
+        "text": "供者的意愿"
+      },
+      {
+        "key": "B",
+        "text": "医学标准"
+      },
+      {
+        "key": "C",
+        "text": "社会标准"
+      },
+      {
+        "key": "D",
+        "text": "年龄标准"
+      },
+      {
+        "key": "E",
+        "text": "支付能力"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-106",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "106",
+    "display_order": 168,
+    "group_range": null,
+    "stem": "反对器官商品化的问题上，尚未形成共识的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "器官市场必然会导致两极分化"
+      },
+      {
+        "key": "B",
+        "text": "有钱人购买器官进行移植，穷人则只能为了生存出售器官"
+      },
+      {
+        "key": "C",
+        "text": "穷人无经济实力享受器官移植的技术益处"
+      },
+      {
+        "key": "D",
+        "text": "个人是否有使用或处置自己身体的自由"
+      },
+      {
+        "key": "E",
+        "text": "穷人在贫困条件下出售器官，并不是真正的自愿"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-107",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "107",
+    "display_order": 169,
+    "group_range": null,
+    "stem": "关于活体器官采集，不正确的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "捐献者应是出于利他动机，不是为了图利"
+      },
+      {
+        "key": "B",
+        "text": "即使体检合格并确定手术时间，捐献者也可撤回捐献意愿"
+      },
+      {
+        "key": "C",
+        "text": "捐赠者应签署知情同意书"
+      },
+      {
+        "key": "D",
+        "text": "未成年人也可作为活体捐献者，可向他人捐献器官以体现其人道意愿"
+      },
+      {
+        "key": "E",
+        "text": "捐献者应在无压力情况下表明自己的捐献意愿"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-108",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "108",
+    "display_order": 170,
+    "group_range": null,
+    "stem": "活体器官移植接受者及其家属，对捐赠者应遵守的准则不包括",
+    "options": [
+      {
+        "key": "A",
+        "text": "不能为了个人的利益，向没有血缘关系者恳求、或利诱其捐出器官"
+      },
+      {
+        "key": "B",
+        "text": "捐赠者已达到法定年龄"
+      },
+      {
+        "key": "C",
+        "text": "不可付钱给捐赠者，但可给捐赠者在手术与住院期间所受到的经济损失给予补偿"
+      },
+      {
+        "key": "D",
+        "text": "捐赠者应符合伦理、医学与心理方面的捐赠标准"
+      },
+      {
+        "key": "E",
+        "text": "可接受未成年人捐献的器官，但应保证其身体不受严重影响"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-109",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "109",
+    "display_order": 171,
+    "group_range": null,
+    "stem": "基因诊断和基因治疗中争论最激烈的伦理难题是",
+    "options": [
+      {
+        "key": "A",
+        "text": "胎儿的生命质量和父母选择权的矛盾"
+      },
+      {
+        "key": "B",
+        "text": "人类遗传物质的纯洁性、神圣性是否受到了亵渎"
+      },
+      {
+        "key": "C",
+        "text": "对个人和人类社会是否安全"
+      },
+      {
+        "key": "D",
+        "text": "是否会造成医疗费用的猛增"
+      },
+      {
+        "key": "E",
+        "text": "生殖细胞的基因治疗是否可行"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-110",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "110",
+    "display_order": 172,
+    "group_range": null,
+    "stem": "关于基因诊断和基因治疗，不合乎医学伦理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "对于有基因缺陷的病人，医务人员应尊重其人格和权利"
+      },
+      {
+        "key": "B",
+        "text": "必须向患者或其家属做出相应的解释，由其自主决定是否接受诊断和治疗"
+      },
+      {
+        "key": "C",
+        "text": "必须确信基因治疗有效，而且预期疗效大于危险"
+      },
+      {
+        "key": "D",
+        "text": "需要遵循一定的审批程序以保证相应原则的落实"
+      },
+      {
+        "key": "E",
+        "text": "应该遵循资源共享原则，不能将病人的情况向外界保密"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-111",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "111",
+    "display_order": 173,
+    "group_range": null,
+    "stem": "人类胚胎干细胞的研究和应用不合乎医学伦理的",
+    "options": [
+      {
+        "key": "A",
+        "text": "胚胎是人类的生物学生命没必要对之尊重"
+      },
+      {
+        "key": "B",
+        "text": "人类胚胎干细胞的研究和应用必须考虑安全性"
+      },
+      {
+        "key": "C",
+        "text": "人类胚胎干细胞的研究和应用必须考虑有效性"
+      },
+      {
+        "key": "D",
+        "text": "人类胚胎干细胞的研究和应用必须防止商品化"
+      },
+      {
+        "key": "E",
+        "text": "人类胚胎干细胞的研究和应用必须遵循知情同意原则"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-112",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "112",
+    "display_order": 174,
+    "group_range": null,
+    "stem": "关于临终关怀，正确的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "仍以延长病人生命的治疗积极为主"
+      },
+      {
+        "key": "B",
+        "text": "临终关怀是24小时的全程服务"
+      },
+      {
+        "key": "C",
+        "text": "临终关怀注重的是对临终病人的照护"
+      },
+      {
+        "key": "D",
+        "text": "临终病人死亡，临终关怀即可结束"
+      },
+      {
+        "key": "E",
+        "text": "临终病人已脱离社会，他们没有社会需求"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-113",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "113",
+    "display_order": 175,
+    "group_range": null,
+    "stem": "支持安乐死的主要伦理依据是",
+    "options": [
+      {
+        "key": "A",
+        "text": "人权主义的观点"
+      },
+      {
+        "key": "B",
+        "text": "功利主义的观点"
+      },
+      {
+        "key": "C",
+        "text": "享乐主义的观点"
+      },
+      {
+        "key": "D",
+        "text": "宗教主义的观点"
+      },
+      {
+        "key": "E",
+        "text": "医学人道主义的观点"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-114",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "114",
+    "display_order": 176,
+    "group_range": null,
+    "stem": "反对安乐死的依据是",
+    "options": [
+      {
+        "key": "A",
+        "text": "违背了人权主义"
+      },
+      {
+        "key": "B",
+        "text": "违背了功利主义"
+      },
+      {
+        "key": "C",
+        "text": "违背了生命价值论"
+      },
+      {
+        "key": "D",
+        "text": "违背了公益论"
+      },
+      {
+        "key": "E",
+        "text": "违背了医学人道主义"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a1-115",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "115",
+    "display_order": 177,
+    "group_range": null,
+    "stem": "目前，国际上从立法角度认可安乐死的国家是",
+    "options": [
+      {
+        "key": "A",
+        "text": "澳大利亚"
+      },
+      {
+        "key": "B",
+        "text": "美国"
+      },
+      {
+        "key": "C",
+        "text": "荷兰"
+      },
+      {
+        "key": "D",
+        "text": "德国"
+      },
+      {
+        "key": "E",
+        "text": "英国"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-116",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "116",
+    "display_order": 178,
+    "group_range": null,
+    "stem": "临终关怀是人道主义在医学领域内的升华，其伦理学意义在于",
+    "options": [
+      {
+        "key": "A",
+        "text": "尽可能延长临终病人的生命，给临终病人更多的关心和照顾"
+      },
+      {
+        "key": "B",
+        "text": "尽可能满足临终病人的生理需要，体现医学的人道主义本质"
+      },
+      {
+        "key": "C",
+        "text": "尽可能满足家属的生理需求，体现医学的人道主义本质"
+      },
+      {
+        "key": "D",
+        "text": "临终关怀维护了临终病人的生命价值与尊严，是人们易于接受的临终处置方式"
+      },
+      {
+        "key": "E",
+        "text": "作为安乐死的代名词，临终关怀既能使病人尊严地、舒适地离开人间，又易于为人接受"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-117",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "117",
+    "display_order": 179,
+    "group_range": null,
+    "stem": "脑死亡标准的伦理学意义具体体现为",
+    "options": [
+      {
+        "key": "A",
+        "text": "为处置植物人提供科学依据"
+      },
+      {
+        "key": "B",
+        "text": "有利于人们从整体上认识死亡"
+      },
+      {
+        "key": "C",
+        "text": "有利于减轻家属的负担"
+      },
+      {
+        "key": "D",
+        "text": "能激励人们珍视生命"
+      },
+      {
+        "key": "E",
+        "text": "能激励人们努力工作"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-118",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "118",
+    "display_order": 180,
+    "group_range": null,
+    "stem": "不属于基因诊断、治疗的伦理学原则的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "尊重病人的原则"
+      },
+      {
+        "key": "B",
+        "text": "知情同意的原则"
+      },
+      {
+        "key": "C",
+        "text": "安全有效的原则"
+      },
+      {
+        "key": "D",
+        "text": "保守秘密的原则"
+      },
+      {
+        "key": "E",
+        "text": "有益于病人的原则"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-119",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "119",
+    "display_order": 181,
+    "group_range": null,
+    "stem": "关于单身妇女的人工授精，正确的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "不得为单身妇女实施人工授精"
+      },
+      {
+        "key": "B",
+        "text": "可允许给孀居的单身妇女实施"
+      },
+      {
+        "key": "C",
+        "text": "可允许给处于永久同居关系的妇女实施"
+      },
+      {
+        "key": "D",
+        "text": "可允许给有能力负起养育子女责任的单身妇女实施人工授精"
+      },
+      {
+        "key": "E",
+        "text": "可允许给愿意负起养育子女责任的单身妇女实施人工授精"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a1-120",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "120",
+    "display_order": 182,
+    "group_range": null,
+    "stem": "我国开展生殖技术的伦理原则，不包括",
+    "options": [
+      {
+        "key": "A",
+        "text": "知情同意原则"
+      },
+      {
+        "key": "B",
+        "text": "维护供受双方和后代利益的原则"
+      },
+      {
+        "key": "C",
+        "text": "尊重病人的原则"
+      },
+      {
+        "key": "D",
+        "text": "互盲和保密的原则"
+      },
+      {
+        "key": "E",
+        "text": "严防商品化的原则"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a1-121",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "121",
+    "display_order": 183,
+    "group_range": null,
+    "stem": "不是尸体器官使用的伦理问题的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "受“身体发肤，受之父母，不敢损伤，孝之始之”观念的影响"
+      },
+      {
+        "key": "B",
+        "text": "能否真正尊重死者的自主权"
+      },
+      {
+        "key": "C",
+        "text": "医生能否保证在摘取器官时病人已真正死亡"
+      },
+      {
+        "key": "D",
+        "text": "让人们做出利他的行为比较困难"
+      },
+      {
+        "key": "E",
+        "text": "自愿捐献虽然符合伦理原则，但来源数量满足不了临床的需要"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-122",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "122",
+    "display_order": 184,
+    "group_range": null,
+    "stem": "荷兰政府规定医生给病人实施安乐死不会受到指控，但有一点不包括在内",
+    "options": [
+      {
+        "key": "A",
+        "text": "病人必须已无药可治，且病痛难忍"
+      },
+      {
+        "key": "B",
+        "text": "病人必须反复多次要求接受安乐死，并确信是本人自愿的行为"
+      },
+      {
+        "key": "C",
+        "text": "医生必须与其他医生对为病人实施安乐死进行商讨"
+      },
+      {
+        "key": "D",
+        "text": "给病人实施安乐死，必须经家属同意"
+      },
+      {
+        "key": "E",
+        "text": "医生对符合安乐死条件者，向由法律、医疗和伦理三方面专家组成的监督小组及时报告"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-123",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "123",
+    "display_order": 185,
+    "group_range": null,
+    "stem": "实施基因治疗时医务人员必须遵守有益于病人的原则，下列哪一点除外",
+    "options": [
+      {
+        "key": "A",
+        "text": "其他治疗无效而基因治疗有效"
+      },
+      {
+        "key": "B",
+        "text": "在动物实验的基础上，预期疗效大于危险"
+      },
+      {
+        "key": "C",
+        "text": "能保证新基因能正确插入靶细胞，并在足够长的时间内能充分发挥作用"
+      },
+      {
+        "key": "D",
+        "text": "在技术无问题的前提下，医务人员就可对病人实施基因治疗"
+      },
+      {
+        "key": "E",
+        "text": "应将基因治疗方案报请有关部门审批"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a1-124",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "124",
+    "display_order": 186,
+    "group_range": null,
+    "stem": "稀有卫生资源分配的医学标准不包括",
+    "options": [
+      {
+        "key": "A",
+        "text": "血缘亲疏"
+      },
+      {
+        "key": "B",
+        "text": "是否利于医学科技进步"
+      },
+      {
+        "key": "C",
+        "text": "引起并发症的可能性"
+      },
+      {
+        "key": "D",
+        "text": "病人的心理素质"
+      },
+      {
+        "key": "E",
+        "text": "病人全身抗体的强弱"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-125",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "125",
+    "display_order": 187,
+    "group_range": null,
+    "stem": "稀有卫生资源分配的社会标准不包括",
+    "options": [
+      {
+        "key": "A",
+        "text": "病人的年龄"
+      },
+      {
+        "key": "B",
+        "text": "病人的心理素质"
+      },
+      {
+        "key": "C",
+        "text": "病人的经济支付能力"
+      },
+      {
+        "key": "D",
+        "text": "病人的社会价值"
+      },
+      {
+        "key": "E",
+        "text": "是否利于医学科技进步"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a1-126",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A1型题",
+    "question_type": "A1型题",
+    "source_no": "126",
+    "display_order": 188,
+    "group_range": null,
+    "stem": "对患有不治之症又极度痛苦的病人，停止采用人工干预方式，缩短痛苦的死亡过程称为",
+    "options": [
+      {
+        "key": "A",
+        "text": ".积极安乐死"
+      },
+      {
+        "key": "B",
+        "text": "助死"
+      },
+      {
+        "key": "C",
+        "text": "消极安乐死"
+      },
+      {
+        "key": "D",
+        "text": "人工死亡"
+      },
+      {
+        "key": "E",
+        "text": "仁慈杀人"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a2-127",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "127",
+    "display_order": 189,
+    "group_range": null,
+    "stem": "某县医院经济效益一直不好，在解决经济效益问题的院务会上，一位负责人提出，应该向市场经济靠拢，并提议：应要求医师多给病人开检查项目，特别是CT、MIR等，在处方中也尽量开进口药，并将医师的开方情况作为发放奖金的依据，这一提议得到了许多与会者的赞同，但某科室主任提出疑义，认为这样做是不道德的。 下列分析最合乎医学伦理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "在市场经济条件下，该医院重视经济效益是可以理解的"
+      },
+      {
+        "key": "B",
+        "text": "即使不是在市场经济条件下，医院也要重视经济效益"
+      },
+      {
+        "key": "C",
+        "text": "该医院应该把社会效益放在首位，正确处理社会效益和经济效益之间的关系"
+      },
+      {
+        "key": "D",
+        "text": "即使是在市场经济条件下，医院也不能重视经济效益"
+      },
+      {
+        "key": "E",
+        "text": "医院应该重视社会效益，重视经济效益必然影响医德的落实"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a2-128",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "128",
+    "display_order": 190,
+    "group_range": null,
+    "stem": "王某，女，17岁，因患有乳房纤维瘤住院行肿块切除术，术中作常规冰冻病理切片，结果提示，肿块部分癌变。 该案例中，医生做何种选择在道德上是最佳的",
+    "options": [
+      {
+        "key": "A",
+        "text": "右乳房作根治术"
+      },
+      {
+        "key": "B",
+        "text": "右乳房纤维瘤切除术"
+      },
+      {
+        "key": "C",
+        "text": "右乳房作大部切除术"
+      },
+      {
+        "key": "D",
+        "text": "与家属商量后再决定手术方案"
+      },
+      {
+        "key": "E",
+        "text": "与家属商量后即作大部切除术，并加以随访"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a2-129",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "129",
+    "display_order": 191,
+    "group_range": null,
+    "stem": "王某，女，30岁，未婚先孕，因胎膜破裂住院。医师检查发现羊水中已经有胎便，胎心210次/分，表明胎儿已处于窒息状态，于是医师决定行剖宫产，但患者不愿在以后的婚姻中让对方知道自己生育过，因此，拒绝此方案，要求自然分娩，且自然分娩对病人的生命也没有威胁 医务人员下列做法符合医学伦理学要求的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "拒绝病人及家属的意见，强行剖宫产"
+      },
+      {
+        "key": "B",
+        "text": "与计划生育部门联系看能否尊重病人的意见"
+      },
+      {
+        "key": "C",
+        "text": "与计划生育部门联系，商讨方案"
+      },
+      {
+        "key": "D",
+        "text": "尊重病人的意见，让其自然分娩"
+      },
+      {
+        "key": "E",
+        "text": "既然病人拒绝医生的方案，医生应采取听之任之的态度"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a2-130",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "130",
+    "display_order": 192,
+    "group_range": null,
+    "stem": "李某，男，40岁，患晚期胃癌住院治疗。医生认为积极的手术比保守的化疗、放疗效果好，因此，建立病人及家属配合医生进行手术，但病人不愿为家庭带来经济负担，坚决反对手术，医生反复做工作，病人始终坚持初衷。最后，医生尊重病人的决定，进行保守治疗。 下列分析最合乎医学伦理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "病人不该拒绝医生的方案"
+      },
+      {
+        "key": "B",
+        "text": "医生可以行使干涉权，强行手术"
+      },
+      {
+        "key": "C",
+        "text": "应该听从家属的意见"
+      },
+      {
+        "key": "D",
+        "text": "医生已经为病人的自主选择提供了充分的信息，因此，应该尊重病人的自主选择"
+      },
+      {
+        "key": "E",
+        "text": "此事应由院长决定"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a2-131",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "131",
+    "display_order": 193,
+    "group_range": null,
+    "stem": "王某，女，在甲医院体检时发现乳腺有肿物，大夫建议做进一步检查，遂在丈夫陪同下到某肿瘤专科医院做进一步检查。大夫张某作了检查后认为是增生，患者介绍了在甲医院检查的情况，张某毫不在意，在患者及家属的要求下，开了X线检查单。片子出来后，张某看了一眼说：“我说是增生吧，你们不信，根本不用照片子，我一摸就是增生，吃了药，缓解了就不用来了”。5个月后，患者又来该院治疗，确诊为“乳腺癌三期”。作了乳腺根除术，主治大夫责怪其“为什么不早来院检查治疗”。 针对本案例，下列分析最恰当的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医生张某违背了不伤害原则"
+      },
+      {
+        "key": "B",
+        "text": "医生张某违背了公正原则"
+      },
+      {
+        "key": "C",
+        "text": "医生张某违背了审慎的道德要求"
+      },
+      {
+        "key": "D",
+        "text": "医生张某违背了尊重原则"
+      },
+      {
+        "key": "E",
+        "text": "医生张某违背了有利原则"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a2-132",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "132",
+    "display_order": 194,
+    "group_range": null,
+    "stem": "一对恋人来到某妇幼保健院做婚检。检查结果发现男方患有梅毒，男方担心女友离开自己，要求医生为自己保密。女方则要求医师告知其男友的真实情况。 从医学伦理学的角度分析，最合理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医师应该为男士保密"
+      },
+      {
+        "key": "B",
+        "text": "医师应该告知女士真实情况，但对外保密"
+      },
+      {
+        "key": "C",
+        "text": "医师应该说服男士，将实情告知女友，但若男士坚决反对，则应尊重其意见"
+      },
+      {
+        "key": "D",
+        "text": "该女士无权向医师提出知晓其男友实情的要求"
+      },
+      {
+        "key": "E",
+        "text": "请示领导再作决定"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a2-133",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "133",
+    "display_order": 195,
+    "group_range": null,
+    "stem": "肖某，男，28岁，因不规则发热2月余，巩膜发黄40多天入院。询问病史时，患者提及7—13岁时有反复发作的上腹部绞痛史。入院初步诊断为：胆道感染并发细菌性脓疡；住院后作十二指肠引流及其它多项检查，超声波提示：肝区有较密的密集微波，SGPT210，2—FP+，剖腹检查确诊为晚期肝癌，已有腹腔转移，肠系膜根部结节，活检为转移性腺癌（剖腹前患者要求如实了解病情，以作好准备）。家属和单位领导得知诊断结果后，都表示要积极抢救，并要求对患者保密。 面对此案例，医务人员从伦理学角度分析，应如何选择行为",
+    "options": [
+      {
+        "key": "A",
+        "text": "满足家属和单位领导要求，积极抢救治疗"
+      },
+      {
+        "key": "B",
+        "text": "考虑医学道德的要求，不惜一切代价地积极治疗"
+      },
+      {
+        "key": "C",
+        "text": "尊重患者权利，如实告诉病情"
+      },
+      {
+        "key": "D",
+        "text": "为免使患者精神崩溃，做好保密工作"
+      },
+      {
+        "key": "E",
+        "text": "尊重患者权利，在治疗同时可适当告诉病情"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a2-134",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "134",
+    "display_order": 196,
+    "group_range": null,
+    "stem": "李某，女，26岁，未婚，体检中发现左侧乳房有肿块来院治疗。医生诊断后拟手术治疗，但患者十分担心术后会影响今后的生活质量，医生积极解释后，病人的心理负担消除。在征得患者家属同意的情况下，进行手术且手术顺利，患者及家属都很满意。 本案例集中体现了尊重患者的",
+    "options": [
+      {
+        "key": "A",
+        "text": "基本医疗权"
+      },
+      {
+        "key": "B",
+        "text": "知情同意权"
+      },
+      {
+        "key": "C",
+        "text": "疾病认知权"
+      },
+      {
+        "key": "D",
+        "text": "提出问题并要求医生解答的权利"
+      },
+      {
+        "key": "E",
+        "text": "监督医疗过程的权利"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a2-135",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "135",
+    "display_order": 197,
+    "group_range": null,
+    "stem": "李某，男，40岁，建筑工人，因工伤送入医院抢救。医院虽进行了积极的抢救，但一周后，病情未好转又发生了感染性中毒性休克，继而出现循环和肾衰竭，难以康复。家属和单位得知病人预后的消息后，出现了两种态度：家属要求放弃治疗和抢救，而单位要求不惜一切代价再继续维持抢救与治疗。 面对家属与单位的意见冲突，医生应该做何种选择最符合伦理原则",
+    "options": [
+      {
+        "key": "A",
+        "text": "尊重家属的意见，停止抢救与治疗"
+      },
+      {
+        "key": "B",
+        "text": "尊重单位的意见，不惜一切代价抢救与治疗"
+      },
+      {
+        "key": "C",
+        "text": "在家属和单位意见不统一情况下，采取支持疗法"
+      },
+      {
+        "key": "D",
+        "text": "医生根据病人具体情况，慎重做出选择"
+      },
+      {
+        "key": "E",
+        "text": "从公益论原则出发，可在取得家属与单位的支持下，停止抢救与治疗"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a2-136",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "136",
+    "display_order": 198,
+    "group_range": null,
+    "stem": "刘某，男，肝癌晚期患者，虽处于极度痛苦之中，但自认为所患疾病是肝硬化，有望治疗。因此，每当有不适时，都希望医护人员能用药物帮助其缓解疼痛，但医护人员的回避态度令病人十分失望。一次，病人疼痛再次发作，要求止痛，又遭到医护人员的拒绝，理由是：已按医嘱用药。 面对类似病人，在医学道德上最佳的选择是",
+    "options": [
+      {
+        "key": "A",
+        "text": "病人的要求应给予满足"
+      },
+      {
+        "key": "B",
+        "text": "满足病人的部分要求，减轻痛苦"
+      },
+      {
+        "key": "C",
+        "text": "实情交代，告知病人无法治疗"
+      },
+      {
+        "key": "D",
+        "text": "继续隐瞒病情，被动治疗"
+      },
+      {
+        "key": "E",
+        "text": "一定时候征得家属同意后告诉病人实情，尽量满足病人要求，减轻痛苦"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a2-137",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "137",
+    "display_order": 199,
+    "group_range": null,
+    "stem": "董某，女，头痛数月，遇上呼吸道感染和月经来潮时更加明显。带着彻底检查的目的来院，医生给病人开出“脑电图”检查单和请耳鼻喉科会诊单，病人要求做CT检查，被医生拒绝，引起病人不满 此案例，符合医学道德的行为应该是",
+    "options": [
+      {
+        "key": "A",
+        "text": "满足病人要求，作CT检查"
+      },
+      {
+        "key": "B",
+        "text": "进行必要体格检查，然后再考虑CT检查"
+      },
+      {
+        "key": "C",
+        "text": "先服药治疗、观察一阶段后再作进一步决定"
+      },
+      {
+        "key": "D",
+        "text": "脑电图检查后再决定是否作CT检查"
+      },
+      {
+        "key": "E",
+        "text": "转耳鼻喉科检查"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a2-138",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "138",
+    "display_order": 200,
+    "group_range": null,
+    "stem": "某医院的太平间存放了一位刚刚因心肌梗死而死亡的病人尸体，心外科的医师刘某知道后，认为这是让实习学生了解心肌梗死死亡病人心脏病变的好机会。但因无法联系到死者家属，且若是等到第二天，尸体会被拉走火化，实习学生也将返校。因此，刘某便于当晚召集学生观看了他所作的该尸体的局部解剖，并在结束后，与学生一起将尸体擦洗干净，穿好衣服。 从医学伦理学的角度评价，下列说法最合理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "病人有支持医学科学发展的义务，因此，刘某的行为不违反医学道德"
+      },
+      {
+        "key": "B",
+        "text": "刘某在尸解结束后，将尸体擦洗干净并穿好衣服，体现了对尸体的尊重，因此，刘某的行为是道德的"
+      },
+      {
+        "key": "C",
+        "text": "刘某为了工作晚上加班，非常敬业，因此，刘某的行为是道德的"
+      },
+      {
+        "key": "D",
+        "text": "刘某虽未获得死者家属的知情同意，但事前曾联系家属，因此，刘某的行为是道德的"
+      },
+      {
+        "key": "E",
+        "text": "刘某进行尸解未获得死者家属的知情同意，违反了医学道德的要求"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a2-139",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "139",
+    "display_order": 201,
+    "group_range": null,
+    "stem": "林某，女，46岁，因双侧扁桃体反复感染伴化脓、发热，到某医院就诊。医生考虑病情给他开了价格昂贵的新型抗生素，患者根据经济状况要求改用平时常用的较便宜而有效的清凉解毒的中药或青霉素 对此案的伦理学分析，正确的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医生决定如何用药，患者的要求是无道理的"
+      },
+      {
+        "key": "B",
+        "text": "医生有用药自主权，患者必须接受新型抗生素"
+      },
+      {
+        "key": "C",
+        "text": "医生应向患者解释如何使用新型抗生素，若患者不同意应考虑患者的要求"
+      },
+      {
+        "key": "D",
+        "text": "在治疗中当医生的权利与患者权利发生冲突时，必须绝对服从患者的权利"
+      },
+      {
+        "key": "E",
+        "text": "在医疗过程中，患者有拒绝治疗权，医生应当给患者换药"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a2-140",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "140",
+    "display_order": 202,
+    "group_range": null,
+    "stem": "周某，男，76岁，因患结肠癌在某医院住院接受手术治疗。术中因血压低需用多巴胺维持，医生便开出医嘱，要求从硬膜外管输入多巴胺。护士虽然知道药典中没有多巴胺硬膜注入的使用说明，但她认为必须忠实地执行医嘱，否则会使医生感到自己不尊重和信任他，从而影响医护关系，因此，护士遵照医嘱从硬膜外管输入多巴胺，当输入300ml时血压回升，2小时后血压平稳。在术后护理时，护士无意中告知了家属，虽然后来经专家会诊认为从硬膜外管注入多巴胺，对患者不会产生任何不良反应。但家属认为是医疗事故，医患之间遂产生纠纷。由此也引发了医护之间的分歧。 就此案例，下列分析合乎伦理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "护士必须忠实执行医嘱，不得提出疑义"
+      },
+      {
+        "key": "B",
+        "text": "医生开医嘱时应征求护士的意见"
+      },
+      {
+        "key": "C",
+        "text": "既然未对患者造成伤害，因此医生护士的做法都是正确的"
+      },
+      {
+        "key": "D",
+        "text": "医护之间应该相互监督，护士应该对医生的医嘱提出疑义"
+      },
+      {
+        "key": "E",
+        "text": "患者及其家属认为是医疗事故是不正确的"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a2-141",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "141",
+    "display_order": 203,
+    "group_range": null,
+    "stem": "张某，女，未婚，因子宫出血过多住院。病人主诉子宫出血与她的月经周期有关，去年也曾有过此类症状。医师按照其主诉施行相应的治疗。妇科的一位实习护士和病人言语投机，很快成为无话不谈的朋友。在一次聊天中谈及病情时，病人说自己是因服用了流产药物而造成的出血不止，并要求这位护士为她保密。 根据上述描述，实习护士应该",
+    "options": [
+      {
+        "key": "A",
+        "text": "遵循保密原则，向医生隐瞒病人实情"
+      },
+      {
+        "key": "B",
+        "text": "因为不会威胁到病人的生命，所以应该保密"
+      },
+      {
+        "key": "C",
+        "text": "拒绝病人提出的为其保密的要求"
+      },
+      {
+        "key": "D",
+        "text": "应说服病人将真实情况告诉医生，但一定注意为病人保密"
+      },
+      {
+        "key": "E",
+        "text": "了解病因、病史是医生的事，与护士无关，所以，应尊重病人的决定"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a2-142",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "142",
+    "display_order": 204,
+    "group_range": null,
+    "stem": "1932年到1972年间，美国研究人员随访400名贫穷的身患梅毒的非裔美国黑人，以了解梅毒的发展过程。虽然当时青霉素已经普遍使用，而且价钱并不昂贵，但是研究人员并不对其采用青霉素治疗，而是给予安慰剂，以观察在不用药物的情况下梅毒会如何发展 从医学伦理的角度，下列分析合理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "研究人员为了医学科学的发展而进行研究，是道德的"
+      },
+      {
+        "key": "B",
+        "text": "研究人员选择“贫穷的患了梅毒的非裔美国黑人”作为受试者，表明了对弱势人群的关注，是道德的"
+      },
+      {
+        "key": "C",
+        "text": "研究人员没有让受试者使用青霉素治疗梅毒，违背了有利原则"
+      },
+      {
+        "key": "D",
+        "text": "研究人员让受试者服用安慰剂，所以实验是道德的"
+      },
+      {
+        "key": "E",
+        "text": "研究人员的目的就是为了了解梅毒的发展过程，因此，未给受试者使用青霉素治疗是道德的"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a2-143",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "143",
+    "display_order": 205,
+    "group_range": null,
+    "stem": "患者王小华，7岁，患急性淋巴性白血病，接受治疗3个月，病情没有改善。医生建议使用一种价格较贵的新药，并征求其父母的意见。其父母经过考虑，表示同意。因为从未使用过这种药物，也不知道这种药物的效果如何，所以医生决定谨慎使用，严格监控。结果表明，使用这种药物后的效果不明显。 从医学伦理的角度分析，正确的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医生使用新药，应该征得王小华本人的同意"
+      },
+      {
+        "key": "B",
+        "text": "该项治疗属试验性治疗"
+      },
+      {
+        "key": "C",
+        "text": "效果不明显，与医师使用药物过于谨慎有关"
+      },
+      {
+        "key": "D",
+        "text": "因为使用药物后的效果不明显，所以医师的行为不道德"
+      },
+      {
+        "key": "E",
+        "text": "医生使用新药应该征得主管领导的批准"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a2-144",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "144",
+    "display_order": 206,
+    "group_range": null,
+    "stem": "某药厂刚刚开发出一种新的、用于白血病患者升高白细胞的药物。动物实验表明此种药物对于升高患者白细胞有较好的效果，且代谢过程安全。药厂在获得允许后委托某医院血液病科主任田某负责该药物的临床实验。田某曾参与该药的开发，认为这种药物是足够安全的，因此未告知患者该药尚处于临床试验阶段。患者在服用该药一周后，白细胞不但没有升高，反而出现了血小板降低的情况。田某不想中途停止试验，不顾其他医生的建议，仍坚持让患者服用该药。最后在院长的干预下，才不得不停止，所幸未造成更为严重的后果。 从医学伦理的角度分析，不合理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "尽管该药厂开发药物的目的是用于治疗白血病的，但这个实验是不道德的"
+      },
+      {
+        "key": "B",
+        "text": "既然动物实验表明该药物效果较好，代谢过程安全。因此，进入临床实验阶段合乎医学伦理"
+      },
+      {
+        "key": "C",
+        "text": "医生没有告诉患者该药还处于临床实验阶段，违背了知情同意原则"
+      },
+      {
+        "key": "D",
+        "text": "患者在服用该药一周后，出现白细胞未升高而血小板降低的情况，应立即停止实验"
+      },
+      {
+        "key": "E",
+        "text": "由于未造成更为严重的后果，所以实验是道德的"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a2-145",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "145",
+    "display_order": 207,
+    "group_range": null,
+    "stem": "吴某，男，15岁，四肢短小，塌鼻、眼裂小、吐舌，吴先天愚型面容，口齿不清、智力低下，无生活自理能力。该患儿出生后7天，医院便诊断其为“21体综合症”，建议家属放弃该患儿。作为医生，患儿父母明知孩子的生命没有价值，但出于对孩子的爱，拒绝了院方的建议。10多年来，为了照顾孩子，母亲常年在家休假，并再也没有生育。 下列各点，你认为最可取的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医院建议放弃婴儿的意见是符合道德的，对家庭、父母、社会都有利"
+      },
+      {
+        "key": "B",
+        "text": "病儿的存在使父母无余力再生一个健康的孩子，享受不到应有的天伦之乐，从伦理角度看，是不道德的"
+      },
+      {
+        "key": "C",
+        "text": "患儿对社会毫无价值，在出生不久后让其死亡，比让其活着更人道"
+      },
+      {
+        "key": "D",
+        "text": "从我国现有的生命价值观出发，对已存活的“21三体综合征”患儿应尽力照顾和培养他，使其逐渐能料理生活，减轻家庭负担"
+      },
+      {
+        "key": "E",
+        "text": "这类患儿长大以后，可以同意其结婚，但不允许其生育"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a2-146",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "146",
+    "display_order": 208,
+    "group_range": null,
+    "stem": "杨某，男，65岁，风湿性心脏病伴房颤，慢性心功能不全十余年，因发热，腹胀痛，不能进食，消瘦明显来院治疗。入院后检查发现肝肿大，中度腹水，ａ-FP(+)，确诊为肝癌晚期，并逐渐出现恶病质症状。病人要求安乐死以求尽早摆脱痛苦，但妻子要求积极抢救治疗，子女和领导表示尊重医院采纳的方案。 针对此例病人，符合医学道德的行为选择应该是",
+    "options": [
+      {
+        "key": "A",
+        "text": "同意病人提出的安乐死要求"
+      },
+      {
+        "key": "B",
+        "text": "回家休息对症治疗"
+      },
+      {
+        "key": "C",
+        "text": "收入病房，对症处理"
+      },
+      {
+        "key": "D",
+        "text": "同意病人妻子的要求"
+      },
+      {
+        "key": "E",
+        "text": "进一步检查后，诊断明确，病人痛苦难忍，在家属和本人要求下，经一定的审批程序，可实施安乐死"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-a2-147",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "147",
+    "display_order": 209,
+    "group_range": null,
+    "stem": "患者张某，男。50岁，农民，因儿子考上大学没钱交学费，想出卖自己的一个肾脏。于是，到某医院询问，A医生认为，法律并没有禁止卖肾，正好又有病人急需肾移植，可以满足其要求；B医生认为，法律尽管没有禁止卖肾，但卖肾违背医学伦理，所以，建议其考虑其它途径为孩子筹措学费。 从医学伦理的角度，下列分析合理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "由于我国没有禁止器官买卖的法律，所以A医生的观点可行"
+      },
+      {
+        "key": "B",
+        "text": "尽管没有禁止卖肾，但卖肾违背医学伦理，所以，B医生的观点正确"
+      },
+      {
+        "key": "C",
+        "text": "患者张某的动机是为了给儿子交学费，是道德的，所以，允许其出售器官"
+      },
+      {
+        "key": "D",
+        "text": "张某出售器官，可以帮助迫切需要器官移植的病人，应该支持张某"
+      },
+      {
+        "key": "E",
+        "text": "是否允许张某出卖肾脏的前提是需要检查其是否健康"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a2-148",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A2型题",
+    "question_type": "A2型题",
+    "source_no": "148",
+    "display_order": 210,
+    "group_range": null,
+    "stem": "一对夫妻结婚3年未育。经查，丈夫张某患有无精症。在没有签订任何协议的情况下，二人于某大学医学院附属医院接受了异源人工授精手术后生育一子。孩子3岁时，全家回丈夫的老家探亲。丈夫家人发现孩子与其父长得不像，遂到张某曾经就诊的医院调查，从医生处得知实情，家人大为恼火，认为此举破坏了自家的血脉。在家人的干预下，夫妻最终反目离婚。 从医学伦理的角度，下列分析不合理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医生通过人工授精的手术治疗、补偿丈夫的生育功能，是道德的"
+      },
+      {
+        "key": "B",
+        "text": "医院应该让夫妇签订协议"
+      },
+      {
+        "key": "C",
+        "text": "家人去医院调查，医师如实告知家人，是道德的"
+      },
+      {
+        "key": "D",
+        "text": "通过人工授精所生的子女，应该视为婚生子女"
+      },
+      {
+        "key": "E",
+        "text": "丈夫的家人认为人工授精使自己家的血脉破坏了，是错误的观念"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a3-149",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A3型题",
+    "question_type": "A3型题",
+    "source_no": "149",
+    "display_order": 211,
+    "group_range": "149-150",
+    "stem": "王某，男，35岁，主诉“舌感异常”到医院就诊，被确诊为舌癌，医生认为病灶尚未转移，及早手术是最佳治疗方法。医生告知病人家属实情及治疗方案，但因手术需取得病人同意，因此，希望家属告知病人其“病灶只是溃疡，因为是恶性的，所以必须切除舌的1/3”以取得病人同意。结果患者坚决反对手术。为了挽救病人生命，医生遂向病人解释“不是切掉舌头，而是烧灼舌的溃疡部分”，使患者同意了手术。术后患者出现语言障碍，咀嚼味觉功能减退，认为医生欺骗并坑害了自己，遂上告法院，要求赔偿。 本案例中，关于医生的医学动机与手段，哪一种评价是正确的",
+    "options": [
+      {
+        "key": "A",
+        "text": "动机是好的，是为了治病救人，手段也是正确的，能达到治病救人的目的"
+      },
+      {
+        "key": "B",
+        "text": "是好的，是为了治病救人但手段不好，影响了病人的术后生活"
+      },
+      {
+        "key": "C",
+        "text": "医生以“不是切掉舌，而是烧灼舌的溃疡部分”告之患者，是为了消除患者对手术的恐怖心理，动机是正确的，但采取欺骗病人的手段是伦理学不允许的"
+      },
+      {
+        "key": "D",
+        "text": "医生以“恶性溃疡”告知患者，侵犯了患者的知情权，动机是不正确的"
+      },
+      {
+        "key": "E",
+        "text": "手术的动机是为了防止舌癌术后复发，是好的，医生用“烧灼舌部溃疡”的解释获取病人的同意，也是为了治病救人，因此，手段也是伦理学能接受的"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-a3-150",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A3型题",
+    "question_type": "A3型题",
+    "source_no": "150",
+    "display_order": 212,
+    "group_range": "149-150",
+    "stem": "王某，男，35岁，主诉“舌感异常”到医院就诊，被确诊为舌癌，医生认为病灶尚未转移，及早手术是最佳治疗方法。医生告知病人家属实情及治疗方案，但因手术需取得病人同意，因此，希望家属告知病人其“病灶只是溃疡，因为是恶性的，所以必须切除舌的1/3”以取得病人同意。结果患者坚决反对手术。为了挽救病人生命，医生遂向病人解释“不是切掉舌头，而是烧灼舌的溃疡部分”，使患者同意了手术。术后患者出现语言障碍，咀嚼味觉功能减退，认为医生欺骗并坑害了自己，遂上告法院，要求赔偿。 本案例病人上告法院，最主要的理由是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医生手术的动机与目的不相符，导致病人术后生活受到严重影响"
+      },
+      {
+        "key": "B",
+        "text": "医生切除1/3舌部虽是本手术的指征，但侵犯了病人的合法权益"
+      },
+      {
+        "key": "C",
+        "text": "医生手术的动机与手段超出了病人当时的理解力和心理承受能力"
+      },
+      {
+        "key": "D",
+        "text": "医生当时用“只是烧灼舌的溃疡部分”的虚假揭示骗取病人的同意"
+      },
+      {
+        "key": "E",
+        "text": "医生没有向病人说明术后可能出现的后遗症，病人思想准备不够"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-a3-151",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A3型题",
+    "question_type": "A3型题",
+    "source_no": "151",
+    "display_order": 213,
+    "group_range": "151-153",
+    "stem": "患者王某，男，65岁，胃癌晚期，因失去手术治疗价值被某医院拒收。患者呈恶病质并伴有频繁的恶心呕吐，进食困难。其家属看到病人的痛苦和要求延续生命的强烈愿望，再次来到医院恳求收治住院，以满足病人心理上的渴求，并表示家庭愿为病人付出各种代价。医生出于人道，将他破格地收入住院。 医院该不该收治该病人，下列分析不合理的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医院担负治病救人的任务，应该收治"
+      },
+      {
+        "key": "B",
+        "text": "医院有治病救人的义务，对所有病人的收治都应一视同仁"
+      },
+      {
+        "key": "C",
+        "text": "治愈率、床位周转率是考核医院效益的指标，因而不能收治"
+      },
+      {
+        "key": "D",
+        "text": "病人家属已统一支付医药费，对医院经济管理无影响，因此，应该收治"
+      },
+      {
+        "key": "E",
+        "text": "住院后病人的安全感的心理需要得到满足，能缓解病人痛苦，应该收治"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-a3-152",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A3型题",
+    "question_type": "A3型题",
+    "source_no": "152",
+    "display_order": 214,
+    "group_range": "151-153",
+    "stem": "患者王某，男，65岁，胃癌晚期，因失去手术治疗价值被某医院拒收。患者呈恶病质并伴有频繁的恶心呕吐，进食困难。其家属看到病人的痛苦和要求延续生命的强烈愿望，再次来到医院恳求收治住院，以满足病人心理上的渴求，并表示家庭愿为病人付出各种代价。医生出于人道，将他破格地收入住院。 从病人的权利分析，下列那点不是应该收治的理由",
+    "options": [
+      {
+        "key": "A",
+        "text": "病人生病后应得到及时的医疗，这是宪法所规定的"
+      },
+      {
+        "key": "B",
+        "text": "病人家属已同意支付医药费，因此，应该收治这个病人"
+      },
+      {
+        "key": "C",
+        "text": "人类生存的权利是平等的，因而医疗保健的享有权也是平等的"
+      },
+      {
+        "key": "D",
+        "text": "医院和医务人员对待各种疾病的患者都应一视同仁"
+      },
+      {
+        "key": "E",
+        "text": "病人享有基本的诊治护理权利"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-a3-153",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "A3型题",
+    "question_type": "A3型题",
+    "source_no": "153",
+    "display_order": 215,
+    "group_range": "151-153",
+    "stem": "患者王某，男，65岁，胃癌晚期，因失去手术治疗价值被某医院拒收。患者呈恶病质并伴有频繁的恶心呕吐，进食困难。其家属看到病人的痛苦和要求延续生命的强烈愿望，再次来到医院恳求收治住院，以满足病人心理上的渴求，并表示家庭愿为病人付出各种代价。医生出于人道，将他破格地收入住院。 从医务人员的义务出发，下列哪点是不正确的",
+    "options": [
+      {
+        "key": "A",
+        "text": "医务人员有承担诊治病人的责任"
+      },
+      {
+        "key": "B",
+        "text": "医务人员有解除病人痛苦的责任"
+      },
+      {
+        "key": "C",
+        "text": "医务人员有忠实于患者利益的责任"
+      },
+      {
+        "key": "D",
+        "text": "晚期癌症，治好无望，不收也是符合医德要求的"
+      },
+      {
+        "key": "E",
+        "text": "对治疗无望的临危病人，也应收治入院，体现对人生命价值的尊重"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-b1-154",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "154",
+    "display_order": 216,
+    "group_range": "154-156",
+    "stem": "出自于《黄帝内经》的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "“天覆地载，万物悉备，莫贵于人”"
+      },
+      {
+        "key": "B",
+        "text": "“人命至重，有贵千金，一方济之，德愈与此”"
+      },
+      {
+        "key": "C",
+        "text": "“欲救人而学医则可，预谋私利而学医则不可”"
+      },
+      {
+        "key": "D",
+        "text": "“仁者，爱人”"
+      },
+      {
+        "key": "E",
+        "text": "“无伤者，是乃仁术”"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-155",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "155",
+    "display_order": 217,
+    "group_range": "154-156",
+    "stem": "出自《备极千金要方》的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "“天覆地载，万物悉备，莫贵于人”"
+      },
+      {
+        "key": "B",
+        "text": "“人命至重，有贵千金，一方济之，德愈与此”"
+      },
+      {
+        "key": "C",
+        "text": "“欲救人而学医则可，预谋私利而学医则不可”"
+      },
+      {
+        "key": "D",
+        "text": "“仁者，爱人”"
+      },
+      {
+        "key": "E",
+        "text": "“无伤者，是乃仁术”"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-b1-156",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "156",
+    "display_order": 218,
+    "group_range": "154-156",
+    "stem": "清代名医费伯雄的名言是",
+    "options": [
+      {
+        "key": "A",
+        "text": "“天覆地载，万物悉备，莫贵于人”"
+      },
+      {
+        "key": "B",
+        "text": "“人命至重，有贵千金，一方济之，德愈与此”"
+      },
+      {
+        "key": "C",
+        "text": "“欲救人而学医则可，预谋私利而学医则不可”"
+      },
+      {
+        "key": "D",
+        "text": "“仁者，爱人”"
+      },
+      {
+        "key": "E",
+        "text": "“无伤者，是乃仁术”"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-b1-157",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "157",
+    "display_order": 219,
+    "group_range": "157-159",
+    "stem": "希波克拉底时代的医学模式是",
+    "options": [
+      {
+        "key": "A",
+        "text": "经验医学模式"
+      },
+      {
+        "key": "B",
+        "text": "机械医学模式"
+      },
+      {
+        "key": "C",
+        "text": "古代朴素的整体医学模式"
+      },
+      {
+        "key": "D",
+        "text": "生物医学模式"
+      },
+      {
+        "key": "E",
+        "text": "生物-心理-社会医学模式"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-b1-158",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "158",
+    "display_order": 220,
+    "group_range": "157-159",
+    "stem": "近代医学发展过程中起到重大作用的医学模式是",
+    "options": [
+      {
+        "key": "A",
+        "text": "经验医学模式"
+      },
+      {
+        "key": "B",
+        "text": "机械医学模式"
+      },
+      {
+        "key": "C",
+        "text": "古代朴素的整体医学模式"
+      },
+      {
+        "key": "D",
+        "text": "生物医学模式"
+      },
+      {
+        "key": "E",
+        "text": "生物-心理-社会医学模式"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-b1-159",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "159",
+    "display_order": 221,
+    "group_range": "157-159",
+    "stem": "恩格尔提出的医学模式是",
+    "options": [
+      {
+        "key": "A",
+        "text": "经验医学模式"
+      },
+      {
+        "key": "B",
+        "text": "机械医学模式"
+      },
+      {
+        "key": "C",
+        "text": "古代朴素的整体医学模式"
+      },
+      {
+        "key": "D",
+        "text": "生物医学模式"
+      },
+      {
+        "key": "E",
+        "text": "生物-心理-社会医学模式"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-b1-160",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "160",
+    "display_order": 222,
+    "group_range": "160-162",
+    "stem": "我国医学道德规范的基本内容",
+    "options": [
+      {
+        "key": "A",
+        "text": "实行医学人道主义，全心全意为人民健康服务"
+      },
+      {
+        "key": "B",
+        "text": "保持健康和恢复健康"
+      },
+      {
+        "key": "C",
+        "text": "救死扶伤，忠于职守；钻研医术，精益求精"
+      },
+      {
+        "key": "D",
+        "text": "审慎 保密 良心"
+      },
+      {
+        "key": "E",
+        "text": "无伤 有利 公正 自主"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-b1-161",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "161",
+    "display_order": 223,
+    "group_range": "160-162",
+    "stem": "我国医学伦理学的具体原则",
+    "options": [
+      {
+        "key": "A",
+        "text": "实行医学人道主义，全心全意为人民健康服务"
+      },
+      {
+        "key": "B",
+        "text": "保持健康和恢复健康"
+      },
+      {
+        "key": "C",
+        "text": "救死扶伤，忠于职守；钻研医术，精益求精"
+      },
+      {
+        "key": "D",
+        "text": "审慎 保密 良心"
+      },
+      {
+        "key": "E",
+        "text": "无伤 有利 公正 自主"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-b1-162",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "162",
+    "display_order": 224,
+    "group_range": "160-162",
+    "stem": "我国医学伦理学的基本原则",
+    "options": [
+      {
+        "key": "A",
+        "text": "实行医学人道主义，全心全意为人民健康服务"
+      },
+      {
+        "key": "B",
+        "text": "保持健康和恢复健康"
+      },
+      {
+        "key": "C",
+        "text": "救死扶伤，忠于职守；钻研医术，精益求精"
+      },
+      {
+        "key": "D",
+        "text": "审慎 保密 良心"
+      },
+      {
+        "key": "E",
+        "text": "无伤 有利 公正 自主"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-163",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "163",
+    "display_order": 225,
+    "group_range": "163-165",
+    "stem": "医学伦理学规范的含义",
+    "options": [
+      {
+        "key": "A",
+        "text": "调节医务职业生活中各种医德关系所应遵循的根本原则"
+      },
+      {
+        "key": "B",
+        "text": "是医务活动中道德行为和道德关系普遍规律的反映"
+      },
+      {
+        "key": "C",
+        "text": "衡量医务人员行为和道德品质的最高道德标准"
+      },
+      {
+        "key": "D",
+        "text": "社会对医务人员基本要求"
+      },
+      {
+        "key": "E",
+        "text": "医疗过程中人们某些最本质的相互关系的反映"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-b1-164",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "164",
+    "display_order": 226,
+    "group_range": "163-165",
+    "stem": "医学伦理学基本范畴",
+    "options": [
+      {
+        "key": "A",
+        "text": "调节医务职业生活中各种医德关系所应遵循的根本原则"
+      },
+      {
+        "key": "B",
+        "text": "是医务活动中道德行为和道德关系普遍规律的反映"
+      },
+      {
+        "key": "C",
+        "text": "衡量医务人员行为和道德品质的最高道德标准"
+      },
+      {
+        "key": "D",
+        "text": "社会对医务人员基本要求"
+      },
+      {
+        "key": "E",
+        "text": "医疗过程中人们某些最本质的相互关系的反映"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-b1-165",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "165",
+    "display_order": 227,
+    "group_range": "163-165",
+    "stem": "医学伦理学基本原则的含义",
+    "options": [
+      {
+        "key": "A",
+        "text": "调节医务职业生活中各种医德关系所应遵循的根本原则"
+      },
+      {
+        "key": "B",
+        "text": "是医务活动中道德行为和道德关系普遍规律的反映"
+      },
+      {
+        "key": "C",
+        "text": "衡量医务人员行为和道德品质的最高道德标准"
+      },
+      {
+        "key": "D",
+        "text": "社会对医务人员基本要求"
+      },
+      {
+        "key": "E",
+        "text": "医疗过程中人们某些最本质的相互关系的反映"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-166",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "166",
+    "display_order": 228,
+    "group_range": "166-167",
+    "stem": "关于医务人员相互之间的医德规范是",
+    "options": [
+      {
+        "key": "A",
+        "text": "严谨求实，奋发进取"
+      },
+      {
+        "key": "B",
+        "text": "尊重病人，一视同仁"
+      },
+      {
+        "key": "C",
+        "text": "互学互尊，团结协作"
+      },
+      {
+        "key": "D",
+        "text": "谨言慎行，保守医密"
+      },
+      {
+        "key": "E",
+        "text": "文明礼貌，关心体贴"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-b1-167",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "167",
+    "display_order": 229,
+    "group_range": "166-167",
+    "stem": "关于医务人员自我的医德规范是",
+    "options": [
+      {
+        "key": "A",
+        "text": "严谨求实，奋发进取"
+      },
+      {
+        "key": "B",
+        "text": "尊重病人，一视同仁"
+      },
+      {
+        "key": "C",
+        "text": "互学互尊，团结协作"
+      },
+      {
+        "key": "D",
+        "text": "谨言慎行，保守医密"
+      },
+      {
+        "key": "E",
+        "text": "文明礼貌，关心体贴"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-168",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "168",
+    "display_order": 230,
+    "group_range": "168-169",
+    "stem": "属于医师义务的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医师不仅要关心病人的躯体，而且要关心病人的心理；不仅要关心病人个体，而且要关心病人家属，病人后代以至关心社会"
+      },
+      {
+        "key": "B",
+        "text": "按经济条件、身份、地位把病人分成不同等级"
+      },
+      {
+        "key": "C",
+        "text": "内心深处的自我评价能力"
+      },
+      {
+        "key": "D",
+        "text": "为病人，病人家属，社会减少治疗费用，减轻大病造成的经济负担"
+      },
+      {
+        "key": "E",
+        "text": "随意传播病人隐私"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-b1-169",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "169",
+    "display_order": 231,
+    "group_range": "168-169",
+    "stem": "属于生物-心理-社会医学模式要求的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "医师不仅要关心病人的躯体，而且要关心病人的心理；不仅要关心病人个体，而且要关心病人家属，病人后代以至关心社会"
+      },
+      {
+        "key": "B",
+        "text": "按经济条件、身份、地位把病人分成不同等级"
+      },
+      {
+        "key": "C",
+        "text": "内心深处的自我评价能力"
+      },
+      {
+        "key": "D",
+        "text": "为病人，病人家属，社会减少治疗费用，减轻大病造成的经济负担"
+      },
+      {
+        "key": "E",
+        "text": "随意传播病人隐私"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-170",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "170",
+    "display_order": 232,
+    "group_range": "170-171",
+    "stem": "属于保密的内容的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "一些医院片面追求最大利益，一些医务人员把医疗权力、技术当作牟取个人不正当利益的手段"
+      },
+      {
+        "key": "B",
+        "text": "医疗服务不但要立足于现实，而且要立足于发展"
+      },
+      {
+        "key": "C",
+        "text": "在行为前选择，在行为中监督，在行为后评价"
+      },
+      {
+        "key": "D",
+        "text": "不将危重疾病的真实情况告诉患者"
+      },
+      {
+        "key": "E",
+        "text": "在医疗服务中用尊称、敬称"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-b1-171",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "171",
+    "display_order": 233,
+    "group_range": "170-171",
+    "stem": "属于良心的作用的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "一些医院片面追求最大利益，一些医务人员把医疗权力、技术当作牟取个人不正当利益的手段"
+      },
+      {
+        "key": "B",
+        "text": "医疗服务不但要立足于现实，而且要立足于发展"
+      },
+      {
+        "key": "C",
+        "text": "在行为前选择，在行为中监督，在行为后评价"
+      },
+      {
+        "key": "D",
+        "text": "不将危重疾病的真实情况告诉患者"
+      },
+      {
+        "key": "E",
+        "text": "在医疗服务中用尊称、敬称"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-b1-172",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "172",
+    "display_order": 234,
+    "group_range": "172-174",
+    "stem": "主动-被动型的医患关系是指",
+    "options": [
+      {
+        "key": "A",
+        "text": "父权主义型"
+      },
+      {
+        "key": "B",
+        "text": "不平等的医患相互关系"
+      },
+      {
+        "key": "C",
+        "text": "患者的主动性是以主动配合、执行医生的意志为前提的"
+      },
+      {
+        "key": "D",
+        "text": "患者不仅主动与医生合作，而且还参与诊治"
+      },
+      {
+        "key": "E",
+        "text": "大多数急诊病人适用这种模型"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-173",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "173",
+    "display_order": 235,
+    "group_range": "172-174",
+    "stem": "指导—合作型的医患关系是指",
+    "options": [
+      {
+        "key": "A",
+        "text": "父权主义型"
+      },
+      {
+        "key": "B",
+        "text": "不平等的医患相互关系"
+      },
+      {
+        "key": "C",
+        "text": "患者的主动性是以主动配合、执行医生的意志为前提的"
+      },
+      {
+        "key": "D",
+        "text": "患者不仅主动与医生合作，而且还参与诊治"
+      },
+      {
+        "key": "E",
+        "text": "大多数急诊病人适用这种模型"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-b1-174",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "174",
+    "display_order": 236,
+    "group_range": "172-174",
+    "stem": "共同参与型的医患关系是指",
+    "options": [
+      {
+        "key": "A",
+        "text": "父权主义型"
+      },
+      {
+        "key": "B",
+        "text": "不平等的医患相互关系"
+      },
+      {
+        "key": "C",
+        "text": "患者的主动性是以主动配合、执行医生的意志为前提的"
+      },
+      {
+        "key": "D",
+        "text": "患者不仅主动与医生合作，而且还参与诊治"
+      },
+      {
+        "key": "E",
+        "text": "大多数急诊病人适用这种模型"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-b1-175",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "175",
+    "display_order": 237,
+    "group_range": "175-177",
+    "stem": "古代医患关系的特点是",
+    "options": [
+      {
+        "key": "A",
+        "text": "尊重患者的生命价值，确立双向作用的医患关系"
+      },
+      {
+        "key": "B",
+        "text": "医患关系的整体性、稳定性、直接性"
+      },
+      {
+        "key": "C",
+        "text": "整体化发展趋势、综合化发展趋势"
+      },
+      {
+        "key": "D",
+        "text": "医患关系的分解趋势和物化趋势"
+      },
+      {
+        "key": "E",
+        "text": "扩大医学服务的范围"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-b1-176",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "176",
+    "display_order": 238,
+    "group_range": "175-177",
+    "stem": "近代医患关系的特点是",
+    "options": [
+      {
+        "key": "A",
+        "text": "尊重患者的生命价值，确立双向作用的医患关系"
+      },
+      {
+        "key": "B",
+        "text": "医患关系的整体性、稳定性、直接性"
+      },
+      {
+        "key": "C",
+        "text": "整体化发展趋势、综合化发展趋势"
+      },
+      {
+        "key": "D",
+        "text": "医患关系的分解趋势和物化趋势"
+      },
+      {
+        "key": "E",
+        "text": "扩大医学服务的范围"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "nmu_self_test-b1-177",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "177",
+    "display_order": 239,
+    "group_range": "175-177",
+    "stem": "现代医患关系的特点是",
+    "options": [
+      {
+        "key": "A",
+        "text": "尊重患者的生命价值，确立双向作用的医患关系"
+      },
+      {
+        "key": "B",
+        "text": "医患关系的整体性、稳定性、直接性"
+      },
+      {
+        "key": "C",
+        "text": "整体化发展趋势、综合化发展趋势"
+      },
+      {
+        "key": "D",
+        "text": "医患关系的分解趋势和物化趋势"
+      },
+      {
+        "key": "E",
+        "text": "扩大医学服务的范围"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-178",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "178",
+    "display_order": 240,
+    "group_range": "178-179",
+    "stem": "医生的权利",
+    "options": [
+      {
+        "key": "A",
+        "text": "平等医疗权"
+      },
+      {
+        "key": "B",
+        "text": "对病人义务和对社会义务的统一"
+      },
+      {
+        "key": "C",
+        "text": "特殊干涉权"
+      },
+      {
+        "key": "D",
+        "text": "保持健康和恢复健康"
+      },
+      {
+        "key": "E",
+        "text": "支持医学科学研究"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-b1-179",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "179",
+    "display_order": 241,
+    "group_range": "178-179",
+    "stem": "病人的权利",
+    "options": [
+      {
+        "key": "A",
+        "text": "平等医疗权"
+      },
+      {
+        "key": "B",
+        "text": "对病人义务和对社会义务的统一"
+      },
+      {
+        "key": "C",
+        "text": "特殊干涉权"
+      },
+      {
+        "key": "D",
+        "text": "保持健康和恢复健康"
+      },
+      {
+        "key": "E",
+        "text": "支持医学科学研究"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-180",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "180",
+    "display_order": 242,
+    "group_range": "180-181",
+    "stem": "适用于婴幼儿病人的医患模式为",
+    "options": [
+      {
+        "key": "A",
+        "text": "主动-被动型"
+      },
+      {
+        "key": "B",
+        "text": "指导-合作型"
+      },
+      {
+        "key": "C",
+        "text": "共同参与型"
+      },
+      {
+        "key": "D",
+        "text": "平等-互补型"
+      },
+      {
+        "key": "E",
+        "text": "共同协商型"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-181",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "181",
+    "display_order": 243,
+    "group_range": "180-181",
+    "stem": "适用于慢性病人的医患模式为",
+    "options": [
+      {
+        "key": "A",
+        "text": "主动-被动型"
+      },
+      {
+        "key": "B",
+        "text": "指导-合作型"
+      },
+      {
+        "key": "C",
+        "text": "共同参与型"
+      },
+      {
+        "key": "D",
+        "text": "平等-互补型"
+      },
+      {
+        "key": "E",
+        "text": "共同协商型"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-b1-182",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "182",
+    "display_order": 244,
+    "group_range": "182-184",
+    "stem": "医院中临床医师与医技科室医务人员之间的关系模式应该是",
+    "options": [
+      {
+        "key": "A",
+        "text": "并列-互补型"
+      },
+      {
+        "key": "B",
+        "text": "指导-被指导型"
+      },
+      {
+        "key": "C",
+        "text": "主从型"
+      },
+      {
+        "key": "D",
+        "text": "相互参与型"
+      },
+      {
+        "key": "E",
+        "text": "相互竞争型"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-183",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "183",
+    "display_order": 245,
+    "group_range": "182-184",
+    "stem": "医护之间的关系模式应该是",
+    "options": [
+      {
+        "key": "A",
+        "text": "并列-互补型"
+      },
+      {
+        "key": "B",
+        "text": "指导-被指导型"
+      },
+      {
+        "key": "C",
+        "text": "主从型"
+      },
+      {
+        "key": "D",
+        "text": "相互参与型"
+      },
+      {
+        "key": "E",
+        "text": "相互竞争型"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-184",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "184",
+    "display_order": 246,
+    "group_range": "182-184",
+    "stem": "既利于调动上级医务人员的积极性，又利于下级义务人员迅速成长的医际关系模式是",
+    "options": [
+      {
+        "key": "A",
+        "text": "并列-互补型"
+      },
+      {
+        "key": "B",
+        "text": "指导-被指导型"
+      },
+      {
+        "key": "C",
+        "text": "主从型"
+      },
+      {
+        "key": "D",
+        "text": "相互参与型"
+      },
+      {
+        "key": "E",
+        "text": "相互竞争型"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-b1-185",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "185",
+    "display_order": 247,
+    "group_range": "185-186",
+    "stem": "内心信念的作用是",
+    "options": [
+      {
+        "key": "A",
+        "text": "行为之前的预测作用"
+      },
+      {
+        "key": "B",
+        "text": "行为之前的选择作用"
+      },
+      {
+        "key": "C",
+        "text": "行为之前的决策作用"
+      },
+      {
+        "key": "D",
+        "text": "行为之前的筛选作用"
+      },
+      {
+        "key": "E",
+        "text": "行为之前的说明作用"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-186",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "186",
+    "display_order": 248,
+    "group_range": "185-186",
+    "stem": "良心的作用是",
+    "options": [
+      {
+        "key": "A",
+        "text": "行为之前的预测作用"
+      },
+      {
+        "key": "B",
+        "text": "行为之前的选择作用"
+      },
+      {
+        "key": "C",
+        "text": "行为之前的决策作用"
+      },
+      {
+        "key": "D",
+        "text": "行为之前的筛选作用"
+      },
+      {
+        "key": "E",
+        "text": "行为之前的说明作用"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-b1-187",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "187",
+    "display_order": 249,
+    "group_range": "187-188",
+    "stem": "1964年世界医学大会颁布，后又经多次修订，关于医学实验的医学伦理文件是",
+    "options": [
+      {
+        "key": "A",
+        "text": "《赫尔辛基宣言》"
+      },
+      {
+        "key": "B",
+        "text": "《悉尼宣言》"
+      },
+      {
+        "key": "C",
+        "text": "《日内瓦协议法》"
+      },
+      {
+        "key": "D",
+        "text": "《阿拉木图宣言》"
+      },
+      {
+        "key": "E",
+        "text": "《纽伦堡法典》"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-188",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "188",
+    "display_order": 250,
+    "group_range": "187-188",
+    "stem": "1946年诞生的人体实验的医学伦理文件是",
+    "options": [
+      {
+        "key": "A",
+        "text": "《赫尔辛基宣言》"
+      },
+      {
+        "key": "B",
+        "text": "《悉尼宣言》"
+      },
+      {
+        "key": "C",
+        "text": "《日内瓦协议法》"
+      },
+      {
+        "key": "D",
+        "text": "《阿拉木图宣言》"
+      },
+      {
+        "key": "E",
+        "text": "《纽伦堡法典》"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question_id": "nmu_self_test-b1-189",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "189",
+    "display_order": 251,
+    "group_range": "189-191",
+    "stem": "涉及到“保持人的尊严”伦理问题的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "器官移植者人格的完整性是否存在问题"
+      },
+      {
+        "key": "B",
+        "text": "器官移植的费用高昂，意味着不是任何人，甚至不是一般人能够享受到"
+      },
+      {
+        "key": "C",
+        "text": "器官移植给人类到底带来多大好处，器官移植并没有人们所期望的那样完美，其成功率、一定时期的存活率还不高"
+      },
+      {
+        "key": "D",
+        "text": "很多器官移植是亲属间进行的"
+      },
+      {
+        "key": "E",
+        "text": "器官移植尚未达到国际上的普遍合作"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-190",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "190",
+    "display_order": 252,
+    "group_range": "189-191",
+    "stem": "涉及到“公正”伦理问题的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "器官移植者人格的完整性是否存在问题"
+      },
+      {
+        "key": "B",
+        "text": "器官移植的费用高昂，意味着不是任何人，甚至不是一般人能够享受到"
+      },
+      {
+        "key": "C",
+        "text": "器官移植给人类到底带来多大好处，器官移植并没有人们所期望的那样完美，其成功率、一定时期的存活率还不高"
+      },
+      {
+        "key": "D",
+        "text": "很多器官移植是亲属间进行的"
+      },
+      {
+        "key": "E",
+        "text": "器官移植尚未达到国际上的普遍合作"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "nmu_self_test-b1-191",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "191",
+    "display_order": 253,
+    "group_range": "189-191",
+    "stem": "涉及到“有利而不伤害”伦理问题的是",
+    "options": [
+      {
+        "key": "A",
+        "text": "器官移植者人格的完整性是否存在问题"
+      },
+      {
+        "key": "B",
+        "text": "器官移植的费用高昂，意味着不是任何人，甚至不是一般人能够享受到"
+      },
+      {
+        "key": "C",
+        "text": "器官移植给人类到底带来多大好处，器官移植并没有人们所期望的那样完美，其成功率、一定时期的存活率还不高"
+      },
+      {
+        "key": "D",
+        "text": "很多器官移植是亲属间进行的"
+      },
+      {
+        "key": "E",
+        "text": "器官移植尚未达到国际上的普遍合作"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "nmu_self_test-b1-192",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "192",
+    "display_order": 254,
+    "group_range": "192-194",
+    "stem": "运用现代医学技术，不通过两性结合进行高等动物（包括人）生殖的技术是",
+    "options": [
+      {
+        "key": "A",
+        "text": "无性生殖"
+      },
+      {
+        "key": "B",
+        "text": "同源人工授精"
+      },
+      {
+        "key": "C",
+        "text": "异源人工授精"
+      },
+      {
+        "key": "D",
+        "text": "试管婴儿技术"
+      },
+      {
+        "key": "E",
+        "text": "体外受精"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-193",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "193",
+    "display_order": 255,
+    "group_range": "192-194",
+    "stem": "由于伦理方面的原因，目前尚未在人类身上成为现实的辅助生殖技术是",
+    "options": [
+      {
+        "key": "A",
+        "text": "无性生殖"
+      },
+      {
+        "key": "B",
+        "text": "同源人工授精"
+      },
+      {
+        "key": "C",
+        "text": "异源人工授精"
+      },
+      {
+        "key": "D",
+        "text": "试管婴儿技术"
+      },
+      {
+        "key": "E",
+        "text": "体外受精"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "nmu_self_test-b1-194",
+    "source_doc": "南京医科大学医学伦理学自测题库.docx",
+    "bank_key": "nmu_self_test_bank",
+    "section_title": "B1型题",
+    "question_type": "B1型题",
+    "source_no": "194",
+    "display_order": 256,
+    "group_range": "192-194",
+    "stem": "目前。我国禁止的生殖技术是",
+    "options": [
+      {
+        "key": "A",
+        "text": "无性生殖"
+      },
+      {
+        "key": "B",
+        "text": "同源人工授精"
+      },
+      {
+        "key": "C",
+        "text": "异源人工授精"
+      },
+      {
+        "key": "D",
+        "text": "试管婴儿技术"
+      },
+      {
+        "key": "E",
+        "text": "体外受精"
+      }
+    ],
+    "answer": "A"
+  }
+]
