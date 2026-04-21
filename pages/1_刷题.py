@@ -10,10 +10,10 @@ from lib.persistence import get_backend_status, save_question_state, save_user_s
 from lib.session import ensure_runtime_state, get_question_state, set_question_state
 from lib.ui import (
     apply_theme,
+    render_feedback_banner,
     render_hero,
     render_question_card,
     render_status_pills,
-    section_heading,
     setup_page,
     sidebar_profile,
 )
@@ -96,26 +96,28 @@ render_hero(
 
 filters_col, nav_col = st.columns([1.2, 1])
 with filters_col:
-    section_heading("筛选器", "筛选变化会同步到云端 user_state。")
-    source_choice = st.selectbox("题库来源", source_docs, key="quiz_source_filter")
+    with st.expander("筛选器", expanded=False):
+        st.caption("筛选变化会同步到云端 user_state。")
+        source_choice = st.selectbox("题库来源", source_docs, key="quiz_source_filter")
 
-    new_section_options = ["全部章节"] + unique_sections(questions, source_choice)
-    if st.session_state["quiz_section_filter"] not in new_section_options:
-        st.session_state["quiz_section_filter"] = "全部章节"
-    section_choice = st.selectbox("章节 / 分组", new_section_options, key="quiz_section_filter")
+        new_section_options = ["全部章节"] + unique_sections(questions, source_choice)
+        if st.session_state["quiz_section_filter"] not in new_section_options:
+            st.session_state["quiz_section_filter"] = "全部章节"
+        section_choice = st.selectbox("章节 / 分组", new_section_options, key="quiz_section_filter")
 
-    question_type_choice = st.selectbox("题型", all_types, key="quiz_type_filter")
+        question_type_choice = st.selectbox("题型", all_types, key="quiz_type_filter")
 
 with nav_col:
-    section_heading("导航提示", "符号含义：▶ 当前题，✓ 最近一次作答正确，✗ 曾经做错或最近答错，· 尚未作答。")
-    render_status_pills(
-        [
-            ("▶ 当前题", "default"),
-            ("✓ 最近作答正确", "correct"),
-            ("✗ 错题 / 最近答错", "wrong"),
-            ("· 尚未作答", "default"),
-        ]
-    )
+    with st.expander("导航提示", expanded=False):
+        st.caption("符号含义：▶ 当前题，✓ 最近一次作答正确，✗ 曾经做错或最近答错，· 尚未作答。")
+        render_status_pills(
+            [
+                ("▶ 当前题", "default"),
+                ("✓ 最近作答正确", "correct"),
+                ("✗ 错题 / 最近答错", "wrong"),
+                ("· 尚未作答", "default"),
+            ]
+        )
 
 active_filters = {
     "source_doc": source_choice,
@@ -155,8 +157,13 @@ metric1.metric("当前筛选题量", len(filtered_questions))
 metric2.metric("已作答", stats.get("attempted", 0))
 metric3.metric("未作答", stats.get("unseen", 0))
 
-render_question_card(current_question, current_index + 1, len(filtered_questions))
 question_state = get_question_state(current_qid)
+render_feedback_banner(
+    question_state["last_is_correct"],
+    question_state.get("last_selected"),
+    current_question["answer"],
+)
+render_question_card(current_question, current_index + 1, len(filtered_questions))
 
 status_items = []
 if question_state["attempt_count"]:
@@ -205,12 +212,6 @@ with submit_col:
             },
         )
         save_question_state(auth["nickname_norm"], current_qid, new_state)
-        if is_correct:
-            st.success(f"回答正确，答案是 {current_question['answer']}。")
-        else:
-            st.error(
-                f"回答错误，你选择了 {chosen_key}，正确答案是 {current_question['answer']}。"
-            )
         st.rerun()
 
 with prev_col:
@@ -221,31 +222,32 @@ with next_col:
     if st.button("下一题", use_container_width=True, disabled=current_index == len(filtered_questions) - 1):
         go_to_question(filtered_questions[current_index + 1]["question_id"], current_index + 2)
 
-section_heading("题号跳转", "支持数字跳转和导航矩阵。")
-jump_left, jump_right = st.columns([1, 2])
-with jump_left:
-    target_position = st.number_input(
-        "跳转到第几题",
-        min_value=1,
-        max_value=len(filtered_questions),
-        value=current_index + 1,
-        step=1,
-        key="quiz_target_position",
-    )
-    if st.button("跳转", use_container_width=True):
-        go_to_question(filtered_questions[target_position - 1]["question_id"], target_position)
+with st.expander("题号跳转", expanded=False):
+    st.caption("支持数字跳转和导航矩阵。")
+    jump_left, jump_right = st.columns([1, 2])
+    with jump_left:
+        target_position = st.number_input(
+            "跳转到第几题",
+            min_value=1,
+            max_value=len(filtered_questions),
+            value=current_index + 1,
+            step=1,
+            key="quiz_target_position",
+        )
+        if st.button("跳转", use_container_width=True):
+            go_to_question(filtered_questions[target_position - 1]["question_id"], target_position)
 
-with jump_right:
-    grid_columns = st.columns(8)
-    for index, question in enumerate(filtered_questions, start=1):
-        state = get_question_state(question["question_id"])
-        symbol = "·"
-        if question["question_id"] == current_qid:
-            symbol = "▶"
-        elif state["last_is_correct"]:
-            symbol = "✓"
-        elif state["ever_wrong"] or state["last_is_correct"] is False:
-            symbol = "✗"
-        with grid_columns[(index - 1) % 8]:
-            if st.button(f"{symbol}{index}", key=f"quiz-nav-{question['question_id']}"):
-                go_to_question(question["question_id"], index)
+    with jump_right:
+        grid_columns = st.columns(8)
+        for index, question in enumerate(filtered_questions, start=1):
+            state = get_question_state(question["question_id"])
+            symbol = "·"
+            if question["question_id"] == current_qid:
+                symbol = "▶"
+            elif state["last_is_correct"]:
+                symbol = "✓"
+            elif state["ever_wrong"] or state["last_is_correct"] is False:
+                symbol = "✗"
+            with grid_columns[(index - 1) % 8]:
+                if st.button(f"{symbol}{index}", key=f"quiz-nav-{question['question_id']}"):
+                    go_to_question(question["question_id"], index)

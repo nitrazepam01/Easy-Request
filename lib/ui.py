@@ -64,7 +64,7 @@ def apply_theme() -> None:
             max-width: 1180px;
         }
 
-        .hero-shell, .paper-card, .question-card, .metric-card, .status-card {
+        .hero-shell, .paper-card, .question-card, .metric-card, .status-card, .feedback-banner {
             background: var(--card);
             border: 1px solid var(--line);
             box-shadow: var(--shadow);
@@ -74,7 +74,7 @@ def apply_theme() -> None:
         }
 
         .hero-shell::before, .paper-card::before, .question-card::before,
-        .metric-card::before, .status-card::before {
+        .metric-card::before, .status-card::before, .feedback-banner::before {
             content: "";
             position: absolute;
             inset: 0;
@@ -123,6 +123,52 @@ def apply_theme() -> None:
         .paper-card, .question-card, .status-card {
             padding: 1.25rem 1.4rem;
             margin-bottom: 1rem;
+        }
+
+        .feedback-banner {
+            padding: 1rem 1.25rem;
+            margin-bottom: 1rem;
+        }
+
+        .feedback-banner.correct {
+            border-color: rgba(47, 92, 80, 0.18);
+            background: linear-gradient(180deg, rgba(235, 245, 240, 0.96), rgba(244, 248, 242, 0.96));
+        }
+
+        .feedback-banner.wrong {
+            border-color: rgba(143, 47, 47, 0.16);
+            background: linear-gradient(180deg, rgba(251, 239, 236, 0.96), rgba(252, 245, 241, 0.96));
+        }
+
+        .feedback-kicker {
+            font-size: 0.82rem;
+            letter-spacing: 0.16em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin-bottom: 0.35rem;
+        }
+
+        .feedback-title {
+            font-family: "Cormorant Garamond", "Noto Serif SC", serif;
+            font-size: 2rem;
+            line-height: 1;
+            margin: 0;
+            color: var(--ink);
+        }
+
+        .feedback-banner.correct .feedback-title {
+            color: var(--green);
+        }
+
+        .feedback-banner.wrong .feedback-title {
+            color: var(--wine);
+        }
+
+        .feedback-detail {
+            margin-top: 0.55rem;
+            color: var(--muted);
+            line-height: 1.7;
+            font-size: 0.95rem;
         }
 
         .metric-card {
@@ -284,6 +330,25 @@ def apply_theme() -> None:
             background: linear-gradient(90deg, rgba(143,47,47,0), rgba(143,47,47,0.25), rgba(143,47,47,0));
             margin: 0.8rem 0 1rem;
         }
+
+        details[data-testid="stExpander"] {
+            background: var(--card);
+            border: 1px solid var(--line);
+            box-shadow: var(--shadow);
+            border-radius: 24px;
+            overflow: hidden;
+            margin-bottom: 1rem;
+        }
+
+        details[data-testid="stExpander"] summary {
+            padding: 0.9rem 1rem;
+            background: rgba(255,255,255,0.32);
+            font-weight: 700;
+        }
+
+        details[data-testid="stExpander"] > div {
+            padding-top: 0.35rem;
+        }
         </style>
         """,
         unsafe_allow_html=True,
@@ -347,6 +412,29 @@ def render_status_pills(items: list[tuple[str, str]]) -> None:
         css = classes.get(variant, "status-pill")
         html_items.append(f'<span class="{css}">{html.escape(label)}</span>')
     st.markdown("".join(html_items), unsafe_allow_html=True)
+
+
+def render_feedback_banner(is_correct: bool | None, chosen: str | None, answer: str) -> None:
+    if is_correct is None:
+        return
+
+    variant = "correct" if is_correct else "wrong"
+    title = "正确" if is_correct else "错误"
+    if chosen:
+        detail = f"你的答案：{html.escape(chosen)}　正确答案：{html.escape(answer)}"
+    else:
+        detail = f"正确答案：{html.escape(answer)}"
+
+    st.markdown(
+        f"""
+        <section class="feedback-banner {variant}">
+            <div class="feedback-kicker">Latest Result</div>
+            <h2 class="feedback-title">{title}</h2>
+            <div class="feedback-detail">{detail}</div>
+        </section>
+        """,
+        unsafe_allow_html=True,
+    )
 
 
 def sidebar_profile(auth: dict, backend_status: dict) -> None:
