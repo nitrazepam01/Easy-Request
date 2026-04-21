@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from collections import Counter
+import time
 
 import streamlit as st
 
@@ -17,6 +18,8 @@ from lib.ui import (
     setup_page,
     sidebar_profile,
 )
+
+AUTO_ADVANCE_DELAY_SECONDS = 1.0
 
 
 def save_runtime_context(question_id: str, filters: dict[str, str]) -> None:
@@ -48,6 +51,7 @@ def resolve_current_question_id(filtered_questions: list[dict]) -> str | None:
 
 
 def go_to_question(question_id: str, position: int) -> None:
+    st.session_state.pop("quiz_auto_advance", None)
     st.session_state["quiz_current_qid"] = question_id
     st.query_params["qid"] = question_id
     st.query_params["pos"] = str(position)
@@ -163,6 +167,17 @@ render_feedback_banner(
     question_state.get("last_selected"),
     current_question["answer"],
 )
+
+pending_auto_advance = st.session_state.get("quiz_auto_advance")
+if pending_auto_advance and pending_auto_advance.get("question_id") == current_qid:
+    next_question_id = pending_auto_advance.get("next_question_id")
+    next_position = pending_auto_advance.get("next_position")
+    st.caption("回答正确，正在自动进入下一题...")
+    if next_question_id and next_position:
+        time.sleep(AUTO_ADVANCE_DELAY_SECONDS)
+        go_to_question(next_question_id, next_position)
+    st.session_state.pop("quiz_auto_advance", None)
+
 render_question_card(current_question, current_index + 1, len(filtered_questions))
 
 status_items = []
@@ -197,6 +212,14 @@ with submit_col:
     if st.button("提交当前答案", type="primary", use_container_width=True):
         chosen_key = label_to_key[choice]
         is_correct = chosen_key == current_question["answer"]
+        if is_correct and current_index < len(filtered_questions) - 1:
+            st.session_state["quiz_auto_advance"] = {
+                "question_id": current_qid,
+                "next_question_id": filtered_questions[current_index + 1]["question_id"],
+                "next_position": current_index + 2,
+            }
+        else:
+            st.session_state.pop("quiz_auto_advance", None)
         new_state = set_question_state(
             current_qid,
             {
